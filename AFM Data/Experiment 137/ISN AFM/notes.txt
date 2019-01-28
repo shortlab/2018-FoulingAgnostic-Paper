@@ -1,0 +1,2 @@
+Probe used is Novascan 40 in water in ISN AFM
+Microsphere checked before and after, cantilever looks clean

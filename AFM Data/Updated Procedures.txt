@@ -1,0 +1,45 @@
+AFM Procedures:
+
+	1. Begin by warming up AFM for 30 minutes (to get equilibrium temperature) - all lights and laser on. DI water and samples should also be in same room to reach same temperature. Fill syringe with fresh DI water.
+	2. Place samples, uncovered, and AFM probe, in snap cover, under DI fan for 10 minutes
+	3. Install probe on dry AFM platform. Check presence of microsphere under microscope. Add droplet of water to scanner platform (just enough to cover entire probe for proper laser path), check that probe is now visible in camera image, make laser alignment adjustments quickly to reduce amount of water leaking into AFM. Use the three screws holding platform in place to adjust the platform until the 'Probe Indicator' in the software shows a green checkmark then secure all screws tightly enough for continued measurement. Do not loosen the two screws holding the probe in place since that will let water leak through into AFM and will also let the probe float upwards in the water droplet and rub on the plastic and get damaged (and finally due to the kinematic mount adjustments these have little effect).
+	3a. Place SiC calibration sample on AFM stage. Secure it with external magnet to avoid upward motion. Use blue plastic guide to ensure centering of sample. Record room temperature and humidity. Add DI water to top of sample. Place scanner in position on top of sample, and approach until image of probe is visible on camera (indicating a continuous water droplet formed between scanner platform and sample).
+	4. Perform a Null FN (click twice), then auto-land, click approach once, and do FD measurement of SiC sample.
+	4a. Initial FD range should have starting point as tip position + 1500 nm and ending point as tip position + 600 nm. After that, range is adjusted so FD measurement has maximum FN (measured between the non-contact voltage and the maximum voltage, not just the highest value on the axis labels) of 0.0150-0.0200 centered on 0.0175 for consistency. All FD measurements are at 500 nm/sec rate with 100ms middle wait time.
+	5. Ctrl+click on two linear points on the resulting curve to get a photodiode sensitivity measurement, dependent on probe installation and laser power. Do this on three different plots at the same point to get a range of values. Record this as nm/mV.
+	6. Record measured adhesive force, as difference from min of retract curve to next closest max. Record this force in mV, get three values from the same physical point. If no clear min or max exists, still record the appearance of plots in the log. Export the plots data for future reference.
+	7. Retract AFM head using the motor control slider and dry out water on AFM scanner using a kimwipe tissue and making sure to not touch probe tip. Place scanner under microscope and check for presence of microsphere (without removing probe).
+	7a. Load new samples. Secure new samples with external magnets as necessary. Use blue plastic guide to ensure centering of sample. Add DI water to top of samples. Record room temperature and humidity. Place AFM scanner in position on top of samples, and approach until image of probe is visible on camera (indicating a continuous water droplet formed between scanner platform and sample).
+	8. If FN reads more than +-0.003 V, perform a Null FN (click twice). Auto-land probe on sample surface, capture photo of material (once per sample), click approach once, and perform FD measurement of sample. Set range as in step 4a in order to maintain constant maximum FN of 0.0100-0.0200 centered on 0.0150.
+	9. Continue FD data collection until three plots with max FN in acceptable range have been obtained. Then record adhesive force (in mV) - difference from min of retract curve to next closest max - from these three plots in the experiment log. If no clear min or max exists, still record the appearance of plots in the log. Export all plots for reference.
+	10. Click retract four times to move probe far from sample surface. Use Motor Control XY window to move sample to next location. Use 25 um setting with slow speed. On even samples, use only X+ and Y+ controls. On odd samples, use only X- and Y- controls. Click one of the arrows once to move to a new 'random' location.
+	11. Continue to 8 until the desired number of data points for this substrate material has been collected.
+	12. Continue to 7 until the desired number of substrate materials has been tested.
+	13. New probe: place new probe (in snap cover) under DI fan, dry AFM platform (otherwise probe will float to surface and break!), remove old probe to its original labelled storage, check for microsphere presence on old probe and confirm probe serial (the number etched on it) matches probe that should have been used. Continue to step 3 until desired number of probes has been used.
+
+
+1. Non-functionalized (tipless) probes - find resonant frequency in air (this will be used later for added-mass calibration)
+
+2. Functionalized probes before starting measurements:
+- warm up AFM for 30 minutes
+- have samples and probe (in snap cover) under DI fan for 10 minutes
+- once probe is installed and laser aligned, do not change laser power or probe alignment for remainder of trials (this will affect photodiode calibration below)
+- perform photodiode calibration by measuring deflection on a hard substrate (SiC) near 0nm height - keep track of this as 'sensitivity', this is probe- and settings-dependent
+- find a maximum applied FN value that will be maintained for rest of trials
+
+3. During measurements: carry measurements out at initial probe height near 0nm for consistency (in terms of actuator and photodiode linearity), and with nearly constant maximum applied force
+
+- measurement procedure: perform initial FD curve measurement
+parameters
+	Distance type: range
+	Start: tip position + 1500
+	End: tip position + 500
+	Speed: 500 nm/sec
+	Number of samples: 256
+	Middle delay: 100 ms
+From the initial FD curve, find the point on the approach curve where force starts to increase - this is the point at which sample is contacted. Re-calculate range start and end values as follows:
+	Start: contact point - 2000
+	End: contact point + 500 (this will consistently apply approximately 500 nm * 3 N/m = 1500 nN downward force to sample)
+Now let experiment run in continuous mode (wait time 100 ms), wait for at least 5 trials (in this time force should decrease perhaps due to electric charge balancing) and record the lowest FN (mV) value - not force. This lowest value is automatically in reference to zero point. Conversion to absolute force is then done externally rather than in software (which I don't trust).
+
+3. Functionalized probes after completing measurements - find resonant frequency in air (to use for added-mass calibration)

@@ -1,0 +1,65 @@
+Water adhesion experiment
+SiO2 probe, various materials
+
+Experiment Log:
+4/17/2017
+	5:39 PM - AFM powered on, laser at 98.0 - left on for laser warm-up
+	5:40 - DI water from glass flask (from upstairs drawn into syringe for temperature equilibration with room
+	5:48 - de-ionizing fan set up to blow on top of samples - all samples placed in path of air with open covers, probe inside the snap-cap is also placed by the samples
+		Probe used: Novascan 42, "R14 C09" label (confirmed). 4 um SiO2 microsphere. This is the first use of the probe after functionalization by Novascan.
+	5:55-6:00	- probe installed on AFM head, rest of samples remain under DI fan
+	6:04 - SiC sample loaded (Z stage around 3.7 or maybe 3.9 mm), with water; rest of samples covered and DI fan turned off. Probe calibration to begin.
+		Cantilever reads as not ready, some re-adjustment of the probe is required.
+	6:17 - could not align the probe (FT<0.5, no measurable resonant frequency meaning there is little reflected laser light), placing Novascan 43 under DI fan
+	6:25 - installing probe Novascan 43
+	6:46 - finished installing Novascan 43, 42 is left to air dry; got FT=0.64V by moving around probe, mount, and the whole structure
+	6:48 - autoland on SiC successful, begin with FD calibration
+	6:58 - completed SiC calibration: sensitivity 10.644-11.225 nm per mV, measured adhesive force 0.0122 mV
+		This is quite low sensitivity, on to Novascan 44...
+	7:22 - Optical microscopy confirmed no microsphere on #41, there is a microsphere on #42 though
+		Probe 44 opened and placed under DI fan
+	7:39 - attempted installation of probe 44, laser FT was around 0.9 V, but probe was not visible on microscope image (nor was any background). While attempting auto-land, the AFM crashed (the microscope image kept updating but did not show a distinguishable surface - some problem with the lens?). Probe 44 is broken in half! Probe 43 was also broken while removing it.
+	9:15 - On further exploration, laser detector seems to not be working - it is reading 0.9 FT no matter what (whether laser is on or off, or even external lighting removed). Likely the electronics for the photodiode have been broken somehow (by the water? or by the crash?)
+		Perhaps I can do vacuum measurements until we get a replacement head
+	10:25 - On even further exploration, laser detector actually reads 0.9 FT with no light (that makes sense!) so head is OK
+		I have installed Novascan 46 (need to confirm probe label)
+		Update procedure to dry stage before replacing probe, and to keep AFM in operational position (upside-down) to avoid water leakage
+		Tested with SiC (Novascan 46): sensitivity 6.962 - 6.472 nm per mV, measured adhesive force of 0.0100 mV
+		Laser is at 98.6
+	10:32 - we are ready for real samples!
+	10:39 - loading ITO glass samples, B4.1 S2-U, uncoated side
+	10:44 - autolanding on uncoated side successful, max FN controlled to 0.017-0.018 (only this data is recorded)
+		measured force (mV):
+		0.0041 0.0039 0.0040
+		.0043 .0041 .0041
+		.0043 .0037 .0041
+		.0041 .0044 .0041
+		.0047 .0046 .0044
+	11:03 - loading coated side of ITO sample B4.1 S2-C, checked non-contact FN = 0.002 V
+	11:06 - autoland successful on coated side, max FN to 0.017-0.018 (Z around 2.5)
+		measured force (mV):
+		.0273 .0303 .0264
+		.0185 .0190 .0200
+		.0303 .0316 .0329
+		.0223 .0232 .0238
+		.0224 .0213 .0218
+	11:21 - done with measurements (15 mins = 15 points...)
+	11:23 - loading B4.1 S1-U, FTO coated slide, uncoated sample first
+	11:27 - autoland successful, nulled FN
+		measured force (mV)
+		.0116 .0118 .0134
+		.0084 .0078 .0076
+		.0077 .0080 .0085
+		.0054 .0059 .0059
+		.0233 .0209 .0235
+	11:40 - done measuring, loading coated side B4.1 S1-C
+	11:42 - autoland successful (Z around 2.8)
+		measured force (mV)
+		(no measurement)
+		.0014 .0012 .0013
+		.0016 .0015 .0018
+		.0020 .0018 .0020
+		.0012 .0012 .0010
+		(no measurement)
+		.0007 .0009 .0010
+	12:03 AM - done measuring B4.1 S1, taking a break...

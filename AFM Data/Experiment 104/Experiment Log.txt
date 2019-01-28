@@ -1,0 +1,97 @@
+4/21/2017
+Experiment 104
+
+6:04 PM - warming up AFM, placing all samples under DI fan
+6:10 - got fresh DI water (from glass flask) into syringe, plan now is to continue SiO2 probe testing of the thin-film samples: the four glass slides and the four Si wafers
+	I also note the most visually homogeneous mineral samples: 1 4 5 7 9 10 11 (of which 7 10 and 4 will require picking the clearest/most transparent area for sampling). It seems reasonable to concentrate my efforts on these, since they will be most amenable to paper publication
+6:14 - randomizing sample order, we let 1=uncoated ITO, 2=coated ITO, 3=uncoated FTO, 4=coated FTO, 5=uncoated Si, 6=cryolite Si, 7=quartz Si, 8=fluorite Si
+	The random sequence is 2 3 7 4 1 5 8 6 which means sample numbers are (from B4.1 and B3.4) 2-C, 1-U, 37-Q, 1-C, 2-U, 37-U, 37-F, 37-C
+6:36 - loading SiC sample, turned off DI fan and covered other samples, microsphere was already checked from last experiment E103, conditions 20.0C, 43.6% RH
+6:40 - autoland successful (Z=2.992mm??), snapshot taken, starting measurements
+	sensitivity (nm/mV): 30.80/6.53, 27.30/6.51, 32.9/8.15, 39.20/9.01
+		in decimal form: 4.717, 4.194, 4.037, 4.351
+	adhesion (mV): .0068, .0056, .0052, .0051
+	saved as P0
+6:45 - switching samples
+6:49 - microsphere confirmed, loading sample B4.1 S2-C, conditions 19.8C, 44.3% RH
+6:53 - autoland successful (Z=1.861mm), snapshot taken, starting measurements
+	.0043 .0075 .0095 .0100 - P1
+	.0042 .0042 .0047 .0047 - P2 these did not drift! very clean
+	.0080 .0082 .0093 .0093 - P3 also did not drift
+	.0068 .0074 .0074 .0077 - P4 slight drift but clean dip
+	.0053 .0055 .0052 .0058 - P5 very low drift
+	.0089 .0080 .0079 .0074 - P6
+7:11 - switching samples
+7:14 - microsphere confirmed, loading sample B4.1 S1-U, conditions 19.8C, 44.3% RH
+7:18 - autoland successful (Z=2.166mm), snapshot taken, starting measurements
+	.0081 .0094 .0079 .0068 - P7
+	.0060 .0054 .0054 .0038 - P8
+	.0130 .0140 .0164 .0183 - P9 only slight drift
+	.0150 .0147 .0125 .0141 - P10 very low drift but dip has a long 'tail'
+	.0048 .0049 .0047 .0045 - P11 again 'tail' but otherwise clean
+	.0038 .0034 .0038 .0037 - P12 observing the onset of low frequency noise/instability! from between plots 8 and 11
+7:37 - switching samples
+7:40 - microsphere confirmed, loading sample B3.4 37-Q, conditions ?
+7:44 - autoland successful (Z=1.714mm), snapshot taken, starting measurements
+	.0012 .0009 .0011 .0015 - P13
+	.0012 .0013 .0014 .0014 - P14 high frequency pulses present but otherwise clear dip
+	.0011 .0012 .0009 .0012 - P15
+	.0012 .0013 .0014 .0016 - P16
+	.0015 .0010 .0009 .0010 - P17
+	.0018 .0015 .0018 .0017 - P18
+7:58 - switching samples
+8:01 - microsphere confirmed, loading sample B4.1 S1-C, conditions 19.9C, 44.2% RH
+8:04 - autoland successful (Z=2.181mm), snapshot taken, starting measurements	
+	.0005 .0007 .0008 .0006 - P19 once again in the noise, though a faint outline of dip visible, also drifty
+	.0007 .0008 .0006 .0006 - P20 in the noise
+	.0005 .0006 .0009 .0005 - P21 same, very low freq noise somewhat present
+	.0004 .0005 .0005 .0005 - P22
+	.0007 .0006 .0006 .0007 - P23 on last one clean dip, low drift
+	.0005 .0006 .0006 .0006 - P24 clean dips, low drift
+8:23 - switching samples
+8:27 - microsphere confirmed, taking a break, AFM left powered on, conditions 19.9C, 44.3% RH
+10:22 - loading sample B4.1 S2-U, conditions 19.7C, 44.5% RH
+10:26 - autoland successful (Z=1.894mm), snapshot taken, starting measurements
+	.0171 .0173 .0163 .0168 - P25 onset of low freq noise between plots 10 and 11
+	.0134 .0145 .0144 .0142 - P26 probably one of the best plots yet! minimal drift and flat non-contact region
+	.0125 .0150 .0135 .0139 - P27 low freq noise present
+	.0080 .0093 .0089 .0101 - P28
+	.0127 .0131 .0122 .0119 - P29
+	.0114 .0108 .0101 .0099 - P30
+10:47 - switching samples
+10:49 - microsphere confirmed, loading sample B3.4 S37-U, conditions 19.8C, 44.3% RH
+10:53 - autoland successful (1.7xxmm), snapshot taken, starting measurements
+	.0096 .0094 .0098 .0110 - P31 flat non-contact region
+	.0091 .0088 .0092 .0104 - P32 reasonable; there was some dirt particle when moving probe after this - hopefully probe did not get hit; I moved particle out of the way by actuating stage quickly, will continue measurements
+	.0075 .0077 .0082 .0085 - P33 very low freq noise apparent
+	.0077 .0082 .0080 .0078 - P34 quite reasonable, flat non-contact area and low drift
+	.0083 .0079 .0078 .0078 - P35 onset of low freq noise towards end
+	.0088 .0083 .0085 .0083 - P36 ok
+11:16 - switching samples
+11:19 - microsphere confirmed, loading sample B3.4 S37-F, conditions 19.9C, 44.4% RH
+11:23 - autoland successful (Z=1.735mm), snapshot taken, starting measurements
+	.0013 .0013 .0014 .0014 - P37 ok, high freq noise
+	.0010 .0011 .0011 .0011 - P38 ok low drift
+	.0010 .0010 .0006 .0005 - P39 in the noise
+	.0010 .0009 .0006 .0007 - P40 visible dip; 11:34, 11:37 snapshot taken of water droplet edge + cracks forming on coating as water evaporated?
+	.0006 .0008 .0009 .0007 - P41 ok
+	.0010 .0008 .0011 .0010 - P42 ok
+11:41 - switching samples, another snapshot of drying/cracking taken
+11:44 - microsphere confirmed, loading sample B3.4 S37-C, conditions 19.9C, 44.3% RH
+11:49 - autoland successful (Z=1.743mm), snapshot taken, starting measurements (avoiding cracks)
+	.0008 .0011 .0006 .0005 - P43 some in the noise, later plots have visible dip (perhaps onset of noise visible going in reverse progression?)
+	.0006 .0004 .0007 .0006 - P44 low freq noise obscures dips, 11:57 snapshot of holes in coating
+	.0009 .0009 .0007 .0008 - P45 low freq even more obscure
+	.0007 .0006 .0008 .0007 - P46 low freq! and drifty
+	.0009 .0008 .0011 .0009 - P47 a bit better
+	.0006 .0006 .0006 .0007 - P48 same as above
+12:10 - switching samples
+12:16 - microsphere confirmed, loading SiC sample, conditions 19.9C, 44.4% RH
+12:17 - autoland successful (Z=3.037mm), snapshot taken, starting measurements
+	adhesion (mV): .0134, .0129, .0125, .0121
+	sensitivity (nm/mV): 43.92/9.45, 47.52/11.67, 50.40/9.76, 31.5/5.38
+		in decimal form: 4.648, 4.072, 5.164, 5.855
+	saved as P49
+12:23 - switching samples
+12:25 - microsphere confirmed, shutting down AFM, leaving the probe in there (Novascan 48) for later, conditions 19.9C, 44.7% RH
+	I also note that the thick coatings on Si wafer all tend to hold on to a layer of water, meanwhile the thin coatings on the glass substrates do not show a noticeable tendency - evne though the FTO is clearly adhesion resistant

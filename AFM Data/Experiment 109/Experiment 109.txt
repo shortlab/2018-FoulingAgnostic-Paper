@@ -1,0 +1,137 @@
+5/2/2017
+
+5:10 AM - warming up AFM. I loaded the previous aqua head calibration file for the upcoming experiments, rather than using the default calibration that came with the new controller. To do this I had to edit the z-axis motor parameters in the xml file so it would allow me to retract/approach as before, which seems to be working now. The main difference I expect is in the nm readout of the experiments using the default configuration (which was E108 and E107) - meaning the mV measured force stays the same, but the measured sensitivity will need to be adjusted. In the default configuration (used in E107 and E108) the Kz value is 16369 angstrom/V while in the aqua head calibration the Kz value is 13426 angstrom/V, meaning the measured sensitivity needs to be multiplied by (K_act/K_def = 13426/16369 = 0.8202) to get the actual sensitivity. As a check, in E107 the default-config sensitivity averages to 2.110 while the aqua-config sensitivity averages to 1.911; 2.110*0.8202 = 1.730, which is at least in the right direction.
+Later - took microscope photos of all the samples up to now - they look rough, need to wash SiC and FTO uncoated side (this was also done)
+
+5/5/2017
+
+4:00 PM - warming up AFM. Placing probe Novascan 27 (ZnO) (R15 C16 confirmed) under DI fan along with whole head. Will be expecting power outage 5pm-6pm, and have brought down UPS from lab server to account for this; I should be able to keep the experiment running throughout.
+4:25 - probe Novascan 27 broken during handling, placing Novascan 28 (R15 C15 confirmed) under DI fan
+4:32 - loading Novascan 28
+4:35 - no microsphere! I am sure this wasn't from handling, maybe it fell off during shipment? Placing Novascan 29 under DI fan
+4:40 - loading Novascan 29 (R15 C14 confirmed)
+4:45 - microsphere confirmed, although it looks quite rough and as if there was a glue spill all over the probe, loading sample B13 S1
+4:48 - autolanded (Z=5.293mm), snapshot taken, starting measurements
+	sensitivity (nm/mV): 3.829, 3.863, 3.970, 4.050
+	adhesion (mV): .0273, .0255, .0242, .0204
+	saved as P0
+4:53 - switching samples
+4:57 - microsphere confirmed, the glue residue (maybe it was water?) from earlier is gone. conditions 20.2C, 42.2% RH, taking a break and preparing for power shutdown - AFM left running with UPS
+5:26 - no sign of power loss yet, so likely it will be a quick transition. I have already tested the glass coated slides with ZnO, and now will test the remnants of the PVD coatings on S37. Randomized order gives 37-C, 37-Q, 37-U, 37-F
+5:27 - loading B3.4 S37-C, conditions 19.8C, 43.3% RH - following a quick placement under DI fan
+5:35 - autolanded (Z=1.130mm), snapshot taken, starting measurements (on central regions of grains rather than cracks), probe initial offset ~400 nm
+	.0016 .0010 .0012 .0012 - P1
+	.0008 .0009 .0007 .0008 - P2 huge lf noise, dip is visible but tiny
+	.0016 .0010 .0009 .0012 - P3 dip is lost in lf noise, I tried my buest guess
+	.0014 .0011 .0010 .0013 - P4 same as above
+	.0010 .0011 .0008 .0007 - P5 same
+	.0006 .0006 .0005 .0004 - P6 same, now also noise estimates
+5:50 - switching samples
+5:53 - microsphere confirmed though it seems rougher, loading sample B3.4 S37-Q, conditions 20.0C, 43.6% RH
+5:55 - autolanded (Z=1.140mm), snapshot taken, starting measurements
+	.0012 .0016 .0008 .0010 - P7 ok
+	.0011 .0009 .0013 .0013 - P8 ok
+	.0015 .0021 .0014 .0009 - P9 less lf noise
+	.0015 .0019 .0019 .0016 - P10 better
+	.0014 .0013 .0018 .0016 - P11 better
+	.0014 .0012 .0012 .0015 - P12 ok
+6:07 - switching samples (above was quite low drift!)
+6:10 - power cut, everything working smoothly with UPS, microsphere confirmed, loading sample B3.4 S37-U, conditions 19.9C, 43.8% RH
+6:12 - autolanded (Z=1.111mm), snapshot taken, starting measurements
+	.0658 .0658 .0657 .0650 - P13 very sticky! and tough to catch drift
+	.0689 .0691 .0697 .0684 - P14 ok
+	.0761 .0738 .0744 .0746 - P15 ok
+	.0786 .0802 .0811 .0800 - P16 ok
+	.0784 .0799 .0798 .0797 - P17 ok
+	.0770 .0786 .0792 .0773 - P18 ok
+6:30 - switching samples
+6:33 - microsphere confirmed, loading sample B3.4 S37-F, conditions 20.0C, 44.4% RH
+6:39 - autolanded (Z=1.078mm), snapshot taken, starting measurements - will have fewer points to reduce chance of contaminating probe
+	.0006 .0004 .0007 .0005 - P19 noise estimates, and hf noise, drifting downwards quickly
+	.0008 .0010 .0007 .0008 - P20 dip barely visible, some lf noise, this was about 10um away from previous to avoid movement
+	.0006 .0006 .0003 .0004 - P21 noise estimates and high lf noise; will end here to avoid possible contamination/peeling when moving probe
+6:48 - switching samples
+6:50 - power restored
+6:51 - microsphere confirmed and looks clean, whereas the S37-F looks like the coating is mostly gone, will rinse AFM platform just in case
+6:53 - taking a break, AFM left on, conditions 20.1C, 44.5% RH
+8:13 - will continue with the mineral samples: 1 4 5 7 9 10 11, randomized order is 9 11 10 1 4 7 5
+8:42 - loading sample B1.1.1 S9, conditions 19.6C, 46.0% RH
+8:47 - autolanded (Z=1.320mm), snapshot taken, starting measurements (avoiding pits)
+	.0014 .0017 .0018 .0016 - P22, drifting upwards quickly
+	.0019 .0019 .0022 .0018 - P23, better, but big lf noise
+	.0009 .0010 .0008 .0006 - P24, big lf noise
+	.0013 .0020 .0016 .0016 - P25, big lf noise; no data (strange noise) from P26
+	.0011 .0010 .0009 .0010 - P27 noisy and small
+	.0008 .0009 .0007 .0007 - P28 very wide dip and lf noise, difficult to make out anything so guessing
+9:05 - switching samples
+9:08 - microsphere confirmed, loading sample B1.1.1 S11, conditions 19.7C, 46.3% RH
+9:11 - autolanded (Z=1.480mm), snapshot taken, starting measurements
+	.0049 .0040 .0033 .0031 - P29 some lf noise
+	.0059 .0056 .0058 .0048 - P30 same
+	.0022 .0025 .0015 .0019 - P31 same - can't tell whether I am on epoxy or mineral! trying another spot; 9:27 found another spot
+	.0011 - P32 it's impossible to catch, drifting downwards very fast
+	.0045 .0048 .0058 .0068 - P33 better, drift is slower and now upwards
+	.0032 .0023 .0050 .0076 - P34 all over the place drifty
+9:38 - switching samples
+9:41 - microsphere confirmed, loading sample B1.1.1 S10, conditions 19.7C, 46.5% RH
+9:45 - autolanded (Z=1.515mm), snapshot taken, starting measurements
+	.0070 .0076 .0080 .0072 - P35 ok
+	.0052 .0059 .0046 .0046 - P36 ok
+	.0116 .0124 .0116 .0107 - P37 ok
+	.0076 .0068 .0076 .0065 - P38 ok
+	.0061 .0058 .0046 .0043 - P39 ok
+	.0075 .0073 .0083 .0088 - P40 ok
+9:58 - trying another spot (one earlier had white specks in the mineral, this one is clear)
+	.0035 .0033
+	.0022 .0018 .0021 - P41
+	.0024 .0022 .0020 .0022 - P42
+	.0010 .0009 .0011 .0010 - P43
+10:07 - now, just for fun, back to original area done at 9:45
+	.0044 .0049 .0050 .0049 - P44
+	.0083 .0058 .0066 .0069 - P45
+10:22 - switching samples
+10:25 - microsphere confirmed, loading sample B2.1.1 S1, conditions 19.7C, 46.8% RH
+10:29 - autolanded (Z=2.297mm), snapshot taken, starting measurements
+	.0080 .0075 .0096 .0080 - P46 ok, drifty
+	.0128 .0134 .0058 .0113 - P47 ok
+	.0182 .0172 .0176 .0167 - P48 low drift
+	.0172 .0166 .0162 .0165 - P49 very low drift
+	.0043 .0045 .0042 .0040 - P50 ok
+	.0122 .0121 .0119 .0102 - P51 ok
+10:43 - switching samples
+10:47 - microsphere confirmed, loading sample B2.1.1 S4, conditions 19.7C, 47.1% RH
+10:51 - autolanded (Z=2.030mm), snapshot taken, starting measurements
+	.0005 .0005 .0010 .0005 - P52 lf noise, guesses
+	.0008 .0009 .0006 .0008 - P53 tiny dip, some interpolation guesses due to lf noise but overall low drift
+	.0008 .0008 .0010 .0008 - P54 guesses
+	.0023 .0022 .0024 .0026 - P55 ok - I likely went off the mineral for this one
+	.0006 .0008 .0005 .0006 - P56 noise estimates
+	.0008 .0008 .0008 .0010 - P57 ok
+	.0009 .0018 .0009 - P58 this was on a very likely epoxy area based on the optical microscope, wanted to do a comparison
+11:07 - switching samples
+11:10 - microsphere confirmed, taking a break, AFM left powered on, conditions 19.6C, 47.6% RH
+5:50 - after a nice nap, loading sample B1.1.1 S7 (with a washer under it to support it)
+6:00 - autolanded (Z=3.647mm), snapshot taken, starting measurements
+	.0030 .0031 .0025 .0022 - P59 fast drifting upwards
+	.0031 .0026 .0032 .0036 - P60 ok, now offset seems to be 600nm rather than 400 as earlier?
+	.0024 .0024 .0021 .0021 - P61 big lf noise masks dip
+	.0053 .0060 .0058 .0060 - P62 strange noise, no flat region
+	.0078 .0070 .0083 .0068 - P63 poorly defined flat region
+	.0073 .0078 .0084 .0075 - P64 same
+6:15 - switching samples
+6:23 - microsphere confirmed, loading sample B1.1.1 S5, conditions 19.4C, 49.9%RH
+6:31 - autolanded (Z=1.766mm), snapshot taken, starting measurements
+	.0085 .0084 .0101 .0114 - P65 lf noise, drifty upwards
+	.0173 .0162 .0121 .0121 - P66 lf noise
+	.0257 .0259 .0236 .0217 - P67 same
+	.0107 .0116 .0112 .0121 - P68 same, a bit more consistent
+	.0151 .0150 .0154 .0154 - P69 same
+	.0060 .0056 .0065 .0066 - P70 same
+6:46 - switching samples
+6:50 - microsphere confirmed, loading sample B13 S1, conditions 19.3C, 50.7%RH
+6:51 - autolanded (Z=5.233mm), snapshot taken, starting measurements
+	sensitivity (nm/mV): 4.202, 4.054, 4.272, 4.279
+	adhesion (mV): .0126, .0147, .0152, .0132
+	saved as P71
+6:55 - switching samples
+6:58 - microsphere confirmed, shutting down AFM, placing samples in desiccator

@@ -1,0 +1,130 @@
+Experiment 113
+5/15/2017
+
+11:36 AM - AFM turned on to warm up
+11:50 - will continue with mineral samples. Randomized order is 1+ 9- 5- 4+ 10- 11- 7* (+ height>2mm, * height>3mm, - height>1mm)
+12:27 PM - loading sample B13 S1, conditions 18.6/51.3
+12:28 - landed Z=5.318mm, snapshot taken
+	sensitivity (nm/mV): 2.402, 2.375, 2.382, 2.434
+	adhesion (mV): .0289, .0278, .0263, .0258 - some strange two-fold flat region on approach line makes it difficult to evaluate
+	saved as 0
+12:36 - microsphere confirmed, loading sample B2.1.1 S1, conditions 18.7/51.1
+12:39 - landed Z=2.294mm, snapshot taken
+	.0063 .0062 .0067 .0067 - 1 ok
+	.0055 .0056 .0059 .0062 - 2
+	.0046 .0047 .0055 .0053 - 3
+	.0060 .0060 .0063 .0058 - 4 some lf
+	.0044 .0040 .0043 .0044 - 5
+	.0033 .0040 .0038 .0038 - 6
+12:52 - switching samples
+12:55 - microsphere confirmed, loading sample B1.1.1 S9, conditions 18.9/50.7
+12:56 - landed Z=1.384mm, snapshot taken
+	.0095 .0100 .0118 .0084 - 7 some lf
+	.0084 .0075 .0089 .0086 - 8 same
+	.0127 .0126 .0123 .0117 - 9
+	.0110 .0108 .0115 .0101 - 10 lf makes it hard to read baseline
+	.0061 .0052 .0063 .0074 - 11 same (note it will be same as above if read to average of lf noise)
+	.0102 .0093 .0101 .0091 - 12 same, I tried to read near midline
+1:08 - switching samples
+1:11 - microsphere confirmed, loading sample B1.1.1 S5, conditions 19.1/50.8
+1:12 - landed Z=1.660mm, snapshot taken
+	.0099 .0079 .0045 .0041 - 13 lf moise
+	.0131 .0136 .0127 .0116 - 14
+	.0170 .0169 .0182 .0177 - 15 ok
+	.0030 .0028 .0026 .0028 - 16 lf near dip
+	.0297 .0296 .0308 .0302 - 17 I aligned this one onto bright flat area
+1:26 - can't get more data, sample is drifting up fast, very strange (maybe an air bubble?) - saved as 18
+1:27 - switching samples
+1:31 - microsphere confirmed, loading sample B2.1.1 S4, conditions 19.1/50.8
+1:32 - landed Z=2.086mm, snapshot taken
+	.0005 .0007 .0005 .0018 - 19 some divergent noise, noise floor
+	.0010 .0010 .0010 .0009 - 20 noise floor, lf, no visible dip
+	.0009 .0011 .0013 .0013 - 21 visible dip now
+	.0008 .0007 .0005 .0006 - 22 noise floor, hard to catch
+	.0006 .0008 .0009 .0006 - 23 sample jumping all over, no consistent force
+	.0007 .0008 .0007 .0006 - 24 a bit better
+1:45 - switching samples
+1:48 - microsphere confirmed, loading sample B1.1.1 S10, conditions 19.2/51.0
+1:49 - landed Z=1.467mm, snapshot taken
+	.0051 .0039 .0035 .0032 - 25 some divergent noise
+	.0019 .0025 .0024 .0020 - 26
+	.0025 .0027 .0027 .0029 - 27 clean
+	.0050 .0049 .0050 .0050 - 28 ok
+	.0030 .0035 .0027 .0030 - 29 ok
+	.0093 .0096 .0092 .0087 - 30 ok
+2:00 - switching samples
+2:02 - microsphere confirmed, taking a break, AFM left on, conditions 19.2/51.1
+2:34 - loading sample B1.1.1 S11, conditions 19.2/50.6
+2:44 - landed Z=1.582mm, snapshot taken (I confirmed this is over the mineral, the epoxy is more reflective)
+2:45 - comparison between mineral and epoxy, epoxy on right is lighter
+	.0030 .0036 .0040 .0022 - 31 divergent
+	.0036 .0042 .0032 .0033 - 32 better, lf near dip
+	.0040 .0039 .0042 .0049 - 33 ok, drifting up
+	.0095 .0096 .0104 .0107 - 34 ok; potentially lost sphere after this one by dragging on sample
+	.0047 .0041 .0034 .0033 - 35 no sphere (probably)
+	.0055 .0043 .0031 .0064 - 36 no sphere (probably)
+2:58 - switching samples
+3:01 - sphere is gone, only a bit of glue is left
+3:03 - AFM left on, laser turned off
+5:16 - Novascan 20 (R14 C22 confirmed) removed (cantilever broke in process), Novascan 21 Silver (R15 C21 confirmed) loaded
+5:21 - microsphere confirmed, loading sample B13 S1, conditions 19.6/49.9
+5:23 - landed Z=5.327mm, snapshot taken
+	sensitivity (nm/mV): 3.668, 3.806, 3.500, 3.566
+	adhesion (mV): .0169, .0122, .0117, .0146
+	saved as 37, drifting upward fast
+5:28 - switching samples
+5:32 - microsphere confirmed, loading sample B1.1.1 S7, conditions 19.7/49.3
+5:33 - landed Z=3.428mm, snapshot taken
+	.0071 .0065 .0079 .0091 - 38 drifting up fast, for this probe offset=300nm
+	.0080 .0100 .0076 .0060 - 39 a bit better drift-wise, lf noise near dip
+	.0154 .0156 .0152 .0139 - 40 better
+	.0074 .0122 .0129 .0132 - 41
+	.0023 .0023 .0021 .0025 - 42
+	.0079 .0062 .0067 .0072 - 43 clearest one
+5:46 - switching samples
+5:51 - microsphere confirmed, loading sample B3.4 S37-Q, conditions 19.8/49.0
+5:53 - landed Z=1.169mm, snapshot taken
+	.0009 .0006 .0007 .0007 - 44 noise floor, minimal drift
+	.0004 .0005 .0005 .0006 - 45 noise floor
+	.0005 .0008 .0010 .0008 - 46 maybe tiny dip
+	.0006 .0006 .0007 .0004 - 47 noise floor
+	.0007 .0007 .0009 .0005 - 48
+	.0010 .0004 .0005 .0005 - 49
+6:05 - switching samples
+6:07 - microsphere confirmed, loading sample B3.4 S37-U, conditions 19.9/48.7
+6:08 - landed Z=1.110mm, snapshot taken
+	.0342 .0331 .0314 .0327 - 50 ok
+	.0328 .0334 .0340 .0364 - 51 ok
+	.0358 .0363 .0370 .0376 - 52
+	.0328 .0321 .0325 .0312 - 53
+	.0361 .0355 .0375 .0361 - 54
+	.0284 .0284 .0283 .0290 - 55
+6:19 - switching samples
+6:22 - microsphere confirmed, loading sample B3.4 S37-C, conditions 19.8/48.8
+6:23 - landed Z=1.117mm, snapshot taken
+	.0009 .0005 .0006 .0004 - 56 lf noise on dip and noise floor
+	.0007 .0010 .0008 .0009 - 57 dip somewhat visible, lf
+	.0008 .0007 .0009 .0006 - 58 lf
+	.0009 .0007 .0006 .0010 - 59 lf right on dip
+	.0005 .0007 .0006 .0006 - 60 noise floor, lf
+	.0003 .0005 .0005 .0005 - 61 same
+6:36 - just for fun, tried out adhesion on two clear patches which have the cryolite coating peeled off (snapshot taken) - interestingly the adhesion is still near-zero (saved as 62)! Perhaps a thin layer is left behind?
+6:38 - switching samples
+6:40 - microsphere confirmed, loading sample B3.4 S37-F, conditions 19.8/49.0
+6:41 - landed Z=mm, snapshot taken
+	.0010 .0009 .0007 .0010 - 63 noise floor
+	.0006 .0006 .0005 .0008 - 64 noise floor, minimal drift
+	.0007 .0008 .0010 .0009 - 65 lf, somewhat visible dip
+	.0004 .0006 .0004 .0003 - 66
+	.0007 .0009 .0006 .0006 - 67
+	.0005 .0006 .0005 .0009 - 68
+6:52 - just for fun, measured on clear patch with fluorite coating peeled off (snapshot taken)
+	.0084 .0088 .0073 .0064 - 69 ok
+6:53 - switching samples
+6:56 - microsphere confirmed, loading sample B13 S1, conditions 19.8/48.8
+6:57 - landed Z=5.277mm, snapshot taken
+	sensitivity (nm/mV): 3.527, 3.634, 3.768, 3.763
+	adhesion (mV): .0150, .0160, .0137, .0096
+	saved as 70
+7:00 - switching samples
+7:02 - microsphere confirmed, probe left in AFM, shutting down AFM, samples left out partially covered to air dry

@@ -1,0 +1,56 @@
+Experiment 112
+5/12/2017
+
+9:20 AM - AFM turned on
+9:24 - probe Novascan 11 nickel (R15 C12 confirmed) put back in storage, probe Novascan 19 silver (R14 C23 confirmed) loaded unsuccessfully, loading probe Novascan 20 silver (R14 C22 confirmed)
+10:16 - AFM laser turned off
+11:07 - AFM laser turned on
+11:28 - loading sample B13 S1, conditions 19.6/44.7
+11:29 - landed Z=5.260mm, snapshot taken
+	sensitivity (nm/mV): 2.543, 2.375, 2.241, 2.360
+	adhesion (mV): .0171, .0175, .0156, .0213
+	saved as 0
+11:33 - switching samples
+11:36 - microsphere confirmed (it is a bit rough, but looks like that is how it came), loading sample B4.1 S2-U, conditions 19.6/44.7
+11:38 - landed Z=1.581mm, snapshot taken
+	.0212 .0254 .0237 .0235 - 1 ok but drifting up fast
+	.0231 .0238 .0233 .0263 - 2 better
+	.0253 .0237 .0250 .0222 - 3
+	.0218 .0211 .0212 .0220 - 4
+	.0226 .0210 .0223 .0245 - 5
+	.0251 .0243 .0254 .0241 - 6
+11:50 - switching samples
+11:53 - microsphere confirmed, loading sample B4.1 S2-C, conditions 19.7/44.6
+11:54 - landed Z=1.579mm, snapshot taken
+	.0192 .0189 .0207 .0219 - 7 hard to track
+	.0273 .0263 .0264 .0262 - 8 ok
+	.0229 .0234 .0235 .0240 - 9 ok
+	.0237 .0231 .0224 .0247 - 10
+	.0248 .0237 .0268 .0266 - 11
+	.0322 .0314 .0319 .0318 - 12
+12:05 - switching samples
+12:08 - microsphere confirmed, loading sample B4.1 S1-C, conditions 19.8/44.6
+12:09 - landed Z=2.562mm, snapshot taken
+	.0017 .0014 .0004 .0005 - 13 some lf noise on first plots, later ones have clear dip
+	.0007 .0007 .0005 .0005 - 14 noise floor
+	.0016 .0015 .0010 .0009 - 15 some lf noise
+	.0006 .0007 .0005 .0005 - 16 lf noise impinges on dip
+	.0005 .0004 .0004 .0005 - 17 same
+	.0029 .0032 .0029 .0023 - 18
+12:19 - switching samples
+12:21 - microsphere confirmed, loading sample B4.1 S1-U, conditions 19.9/44.5
+12:22 - landed Z=2.534mm, snapshot taken
+	.0148 .0138 .0153 .0154 - 19
+	.0133 .0130 .0140 .0133 - 20 ok
+	.0136 .0142 .0149 .0157 - 21
+	.0137 .0148 .0143 .0144 - 22
+	.0124 .0142 .0138 .0151 - 23
+	.0127 .0126 .0140 .0133 - 24
+12:33 - switching samples
+12:36 - microsphere confirmed, loading sample B13 S1, conditions 19.9/44.5
+12:37 - landed Z=5.219mm, snapshot taken
+	sensitivity (nm/mV): 2.225, 2.376, 2.292, 2.422
+	adhesion (mV): .0166, .0192, .0239, .0229
+	saved as 25
+12:40 - switching samples
+12:42 - microsphere confirmed, shutting down AFM, leaving probe in for next experiment

@@ -1,0 +1,114 @@
+4/27/2017
+Experiment 107
+
+2:02 AM - installed new controller (SN 072, old SN 110) - licensed the contact and tapping modes. Now the laser shows up appropriately (with no change to scanner or probe), and FT goes to zero when laser is off, as expected. I have kept the same probe from end of E106, and will test it on the SiC sample which hopefully hasn't moved much. Ideally I will now get same results as end of E106. Procedures will be the same.
+2:06 - autolanded on SiC B13 S1 (Z=5.239mm), snapshot taken, starting measurements
+	sensitivity (nm/mV) decimal: 4.559, 4.214, 4.387, 4.875
+	adhesion (mV): .0171, .0174, .0174, .0175
+	these are similar enough to the previous results (noise and everything) that I believe this configuration will work as long as I follow the previous procedures. The only advantage I noticed so far is that the laser position seems to be indicated properly. Also, the z-axis coarse range is larger and moves faster (? with same motor noise - this is just a calibration setting, the mm unit is meaningless), and the z-axis fine range is also larger and moves faster (? with same motor noise - this is also a calibration setting? this makes no sense. now I have to press approach button twice in order to get tip to be at same position as earlier)
+2:15 - replacing probe, removing Novascan 15 which was used previously, and putting in Novascan 16 (R14 C26 checked) for this experiment
+2:24 - Novascan 16 microsphere looks rough and had some dust on the cantilever (perhaps from the loading since I dropped it a little bit), so I will try Novascan 17 (R14 C25 checked).
+2:33 - Novascan 17 loaded, sphere looks rough under microscope but cantilever is clean unlike Novascan 16, so I will proceed with this probe installed.
+2:43 - with new controller's laser display, I was able to align the probe (using three outer screws on platform) to FT=0.88 from previous 0.47, hopefully this will also increase sensitivity
+2:44 - loaded SiC sample B13 S1, conditions 19.7C, 52.6% RH
+2:45 - autolanded (Z=5.231mm), snapshot taken, starting measurements
+	sensitivity (nm/mV): 3.431, 2.852, 2.921, 3.048 - about 50% better than previously!
+	adhesion (mV): .0059, .0057, .0059, .0058 - much less sticky, perhaps because of rough surface!
+3:00 - plan is to test with TiO2-coated microsphere the homogeneous mineral samples: 1 4 5 7 9 10 11. Random order is: 11 1 10 7 9 4 5
+3:06 - switching samples
+3:09 - microsphere confirmed, there is a small piece of dust next to it but it might wash away and looks too small to affect measurements. loading sample B1.1.1 S11, conditions 19.8C, 52.3% RH; it is tricky to get probe aligned over the mineral (as opposed to over epoxy) on this sample
+3:15 - autolanded (Z=1.433mm), snapshot taken, starting measurements
+	.0043 .0037 .0038 .0043 - P1; for this probe start at tip position -250nm
+	.0027 .0031 .0024 .0026 - P2
+	.0036 .0034 .0032 .0039 - P3
+	.0024 .0021 .0026 .0025 - P4
+	.0035 .0032 .0033 .0035 - P5
+	.0024 .0024 .0027 .0026 - P6
+3:38 - switching samples
+3:41 - microsphere confirmed, piece of dust from earlier is still there, loading sample B2.1.1 S1, conditions 19.8C, 52.3% RH
+3:43 - autolanded (Z=2.235mm), snapshot taken, starting measurements
+	.0081 .0083 .0073 .0089 - P7
+	.0092 .0088 .0085 .0091 - P8
+	.0074 .0060 .0065 .0074 - P9
+	.0096 .0096 .0090 - not saved
+	.0183 .0181 .0179 .0167 - P11
+	.0147 .0149 .0149 .0147 - P12
+3:59 - switching samples
+4:06 - microsphere confirmed, however the piece of dust is now closer to microsphere and might reasonably account for the increased adhesive force observed above (there were some visible spots on the S1 sample in the area of the final scans). not sure what to do about this - washing with water droplet did not have any effect, the bond is too strong.
+4:10 - will switch to Novascan 16 (R14 C26) for rest of experiment, putting Novascan 17 back in labeled container
+4:17 - loaded probe Novascan 16, microsphere confirmed, other dust on cantilever is small and far away thus should not affect measurement; will need to use sensitivity values from end-of-test SiC measurement
+4:18 - loading sample B1.1.1 S10, conditions 19.8C, 52.2% RH
+4:23 - autolanded (Z=1.519mm), snapshot taken, starting measurements
+	.0046 .0039 .0035 .0036 - P13 drifting extremely fast upwards, practically unusable
+	.0041 .0054 .0039 .0041 - P14 still fast drift
+	.0069 .0066 .0069 .0062 - P15 same as above
+	.0054 .0049 .0053 .0055 - P16 better
+	.0036 .0023 .0016 .0015 - P17 more stable now
+	.0045 .0036 .0040 .0049 - P18 even more stable
+4:42 - switching samples
+4:58 - microsphere confirmed, other dust remains on cantilever, loading sample B1.1.1 S7 (with external magnet to ensure top is level), conditions 19.8C, 52.5% RH
+5:05 - autolanded (Z=3.330mm), snapshot taken, starting measurements
+	.0081 .0078 .0121 .0092 - P19 extremely fast drift upwards
+	.0096 .0083 .0080 .0044 - P20 somewhat stabilized
+	.0045 .0026 .0028 .0030 - P21
+	.0055 .0057 .0042 .0054 - P22
+	.0059 .0061 .0051 .0061 - P23
+	.0048 .0054 .0049 .0060 - P24
+5:21 - switching samples
+5:26 - microsphere confirmed, loading SiC sample B13 S1, conditions 19.8C, 52.6% RH
+5:27 - autolanded (Z=5.204mm), snapshot taken, starting measurements
+	sensitivity (nm/mV): 2.365, 1.900, 2.262, 1.987
+	adhesion (mV): .0079, .0077, .0085, .0075
+	saved as P25
+5:35 - I carried out same SiC trials after loading the original aqua calibration (without moving head or sample):
+	sensitivity (nm/mV): 2.284, 1.566, 1.660, 2.135
+	adhesion (mV): .0114, .0127, .0124, .0129
+	saved as P26
+5:44 - and again with previous calibration
+	sensitivity (nm/mV): 2.028, 2.209, 2.157, 1.973
+	adhesion (mV): .0079, .0080, .0103, .0106
+	saved as P27
+5:48 - left previous calibration loaded, switching samples
+6:01 - microsphere confirmed, cantilever still dirty as before
+6:03 - shutting down AFM, will leave on for Kent et al after completing the mineral sample set and putting in non-critical probe
+
+4/28/2017
+4:25 AM - warming up AFM, placed samples under DI fan. remaining samples will be tested: 9 4 5
+4:35 - observed the coated Si wafer samples (B3.4) under microscope, the Cryolite and Fluorite ones are very highly cracked and probably unsuitable for further measurements. This suggests two things: take microscope images of all samples before/after measurements (will need to make a new set of samples with coated Si wafers), and set up a HP/HT test facility for testing coating stability before running in the crud loop.
+4:39 - loading sample B1.1.1 S9, conditions 19.2C, 57.3% RH
+4:46 - autolanded (Z=1.374mm), snapshot taken, starting measurements (Avoiding pits/cracks)
+	.0026 .0041 .0042 .0051 - P28 very high drift upwards, poorly controlled max force
+	.0031 .0022 .0029 .0032 - P29 lf noise very noisy
+	.0010 .0010 .0008 .0008 - P30 ? lf noise
+	.0029 .0035 .0028 .0033 - P31 ok for once
+	.0048 .0041 .0042 .0041 - P32 ok
+	.0041 .0035 .0029 .0028 - P33 ok
+5:08 - switching samples
+5:13 - microsphere confirmed, loading sample B2.1.1 S4, conditions 19.4C, 56.8% RH
+5:17 - autolanded (Z=2.051mm), snapshot taken, starting measurements
+	.0008 .0008 .0008 .0012 - P34 ok (drifting but I adjusted it just in time)
+	.0011 .0011 .0015 .0013 - P35 ok
+	.0016 .0014 .0016 .0021 - P36 ok, I am not sure whether I am on the crystal? I hope so
+	.0007 .0007 .0006 .0005 - P37 small ones are noise estimate
+	.0006 .0005 .0005 .0004 - P38 noise estimates
+	.0005 .0004 .0004 .0006 - P39 noise estimates
+5:31 - switching samples
+5:33 - just for comparison, trying out the epoxy area of B2.1.1 S4 now
+	.0013 .0027 .0018 .0011 - P40 not that impressive! I thought it would be very sticky. also water tends to stay on the epoxy, just like with coated Si wafers (low contact angle), which may be related.
+5:36 - switching samples
+5:39 - microsphere confirmed, loading sample B1.1.1 S5, conditions 19.6C, 56.x% RH
+5:44 - autolanded (Z=1.662mm), snapshot taken, starting measurements
+	.0062 .0060 .0052 .0053 - P41
+	.0070 .0079 .0078 .0057 - P42
+	.0025 .0025 .0021 .0018 - P43
+	.0020 .0025 .0020 .0020 - P44
+	.0049 .0043 .0052 .0045 - P45
+	.0078 .0069 .0075 .0062 - P46 big lf noise
+6:00 - switching samples
+6:07 - microsphere confirmed, loading sample B13 S1 (SiC), conditions 19.6C, 56.6% RH
+6:08 - autolanded (Z=5.298mm), snapshot taken, starting measurements
+	sensitivity (nm/mV): 2.448, 1.977, 2.036, 2.216
+	adhesion (mV): .0060, .0091, .0080, .0125
+	saved as P47
+6:13 - switching samples
+6:18 - microsphere confirmed, probe left in AFM and AFM left powered on for next experiment, conditions 19.6C, 56.8% RH

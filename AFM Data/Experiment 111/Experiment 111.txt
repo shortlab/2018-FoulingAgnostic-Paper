@@ -1,0 +1,161 @@
+Experiment 111
+5/11/2017
+
+5:12 PM - AFM powered on to warm up, need to clean S2-U, S1-C, S4, S11, S10, S37-Q - taking these upstairs
+7:01 - switching probes, removing Novascan 24 (R15 C19 confirmed) loading Novascan 11 Nickel (R15 C12 confirmed)
+7:12 - laser is aligned, loading sample B13 S1, conditions 19.7/42.4
+7:18 - autolanded (Z=5.301mm), snapshot taken, starting measurements
+	sensitivity (nm/mV): 3.042, 2.882, 2.821, 2.943
+	adhesion (mV): .0308, .0310, .0315, .0298
+	saved as P0
+7:22 - switching samples
+7:27 - microsphere confirmed, randomized order of glass samples is 2-C, 1-U, 1-C, 2-U
+7:28 - loading sample B4.1 S2-C, conditions 19.8/42.2
+7:32 - autolanded (Z=1.587mm), snapshot taken, starting measurements
+	.0431 .0423 .0442 .0433 - P1 clear
+	.0427 .0415 .0419 .0411 - P2 same
+	.0415 .0379 .0415 .0439 - P3
+	.0341 .0345 .0342 .0331 - P4
+	.0385 .0365 .0370 .0361 - P5
+	.0386 .0405 .0416 .0443 - P6
+7:46 - switching samples
+7:48 - microsphere confirmed, loading sample B4.1 S1-U, conditions 19.8/42.5; from now on I will write measurements in terms of mV/1000 ie .0431 => 431
+7:51 - autolanded (Z=2.606mm), snapshot taken, starting measurements
+	.0130 .0124 .0129 .0127 - P7
+	.0139 .0131 .0133 .0144 - P8
+	.0161 .0144 .0155 .0163 - P9
+	.0134 .0143 .0131 .0156 - 10 (now using numbers only for plot names, no P prefix)
+	.0206 .0215 .0229 .0231 - 11
+	.0164 .0172 .0171 .0179 - 12
+8:03 - switching samples
+8:05 - microsphere confirmed, loading sample B4.1 S1-C, conditions 19.7/42.7
+8:08 - autolanded (Z=2.613mm), snapshot taken, starting measurements
+	.0004 .0004 .0003 .0004 - 13 noise floor
+	.0007 .0009 .0009 .0010 - 14 small visible dip
+	.0009 .0007 .0010 .0011 - 15 same, some lf
+	.0006 .0009 .0008 .0008 - 16 more lf
+	.0006 .0005 .0005 .0005 - 17
+	.0009 .0005 .0007 .0007 - 18
+8:19 - switching samples
+8:21 - microsphere confirmed, loading sample B4.1 S2-U, conditions 19.7/42.7
+8:24 - autolanded (Z=1.666mm), snapshot taken, starting measurements
+	.0153 .0148 .0135 .0163 - 19
+	.0151 .0152 .0165 .0165 - 20
+	.0171 .0165 .0179 .0170 - 21
+	.0131 .0129 .0132 .0139 - 22
+	.0193 .0204 .0210 .0202 - 23
+	.0179 .0169 .0171 .0188 - 24
+8:35 - switching samples
+8:38 - taking a break, conditions 19.8/42.5, AFM left on
+8:39 - next up will be the minerals in random order: 7 1 4 10 9 11 5
+9:16 - loading sample B1.1.1 S7 with washer, conditions 19.9/42.3
+9:20 - autolanded (Z=2.977mm), snapshot taken, starting measurements
+	.0077 .0087 .0080 .0081 - 25 lf noise and fast drift up
+	.0021 .0016 .0024 .0026 - 26 more clear dip, still drifty
+	.0026 .0040 .0037 .0032 - 27 same, lf noise
+	.0057 .0059 .0054 .0058 - 28 some divergence near dip, unclear reading
+	.0084 .0090 .0090 .0093 - 29 better
+	.0059 .0077 .0080 .0070 - 30 same as 28
+9:34 - switching samples
+9:37 - microsphere confirmed, loading sample B2.1.1 S1, conditions 19.9/42.3
+9:39 - autolanded (Z=2.377mm), snapshot taken, sample looks dirty should clean next time
+	.0093 .0090 .0084 .0080 - 31 ok, a bit drifty
+	.0149 .0161 .0159 .0169 - 32
+	.0144 .0132 .0137 .0139 - 33
+	.0152 .0157 .0156 .0160 - 34
+	.0145 .0149 .0147 .0158 - 35
+	.0177 .0182 .0190 .0195 - 36
+9:50 - switching samples
+9:54 - microsphere confirmed, loading sample B2.1.1 S4, conditions 20.0/42.1
+9:56 - autolanded (Z=2.116mm), snapshot taken
+	.0007 .0007 .0006 .0004 - 37 drifting downward fast
+	.0008 .0008 .0006 .0008 - 38 better
+	.0007 .0012 .0010 .0010 - 39
+	.0025 .0017 .0020 .0017 - 40
+	.0014 .0013 .0007 .0018 - 41
+	.0004 .0005 .0003 .0007 - 42
+10:09 - switching samples
+10:12 - microsphere confirmed, loading sample B1.1.1 S10, conditions 20.1/42.1
+10:17 - autolanded (Z=1.470mm), snapshot taken
+	.0017 .0020 .0018 .0014 - 43 drifting up fast
+	.0028 .0012 .0008 .0007 - 44 same
+	.0009 .0008 .0006 .0005 - 45 drifting; after this could not catch sample
+	.0014 .0013 .0015 .0013 - 46
+	.0005 .0005 .0008 .0008 - 47 now 300nm from probe offset
+	.0012 .0013 .0018 .0021 - 48 all over the place, not very consistent force
+10:35 - switching samples
+10:38 - microsphere confirmed, taking a break, AFM left on, conditions 20.1/42.5
+12:01 AM - loading sample B1.1.1 S9, conditions 19.7/42.9
+12:04 - autolanded (Z=1.338mm), snapshot taken
+	.0025 .0028 .0027 .0029 - 49 lf noise but visible dip
+	.0024 .0024 .0026 .0032 - 50 still lf
+	.0036 .0032 .0038 .0048 - 51 same
+	.0015 .0011 .0017 .0013 - 52
+	.0034 .0027 .0029 .0027 - 53
+	.0054 .0049 .0047 .0057 - 54 this is in a visually different section, snapshot taken 12:18
+12:19 - switching samples
+12:23 - microsphere confirmed, loading sample B1.1.1 S11, conditions 19.8/42.8
+12:28 - autolanded (Z=1.512mm), snapshot taken
+	.0081 .0078 .0078 .0081 - 55 ok
+	.0054 .0054 .0054 .0051 - 56 ok still can't tell whether on sample or on epoxy
+	.0036 .0039 .0035 .0038 - 57 I checked somewhat that this is on the sample
+	.0029 .0033 .0032 .0037 - 58 lf noise, not clear straight section
+	.0048 .0053 .0053 .0057 - 59 same
+	.0041 .0047 .0044 .0045 - 60 same
+12:45 - switching samples
+12:47 - microsphere confirmed, loading sample B1.1.1 S5, conditions 19.8/42.9
+12:52 - autolanded (Z=1.669mm), snapshot taken
+	.0084 .0090 .0086 .0075 - 61 weird divergence near the dip
+	.0042 .0039 .0037 .0040 - 62 same
+	.0024 .0021 .0024 .0026 - 63 lf noise
+	.0037 .0029 .0032 .0028 - 64 same but more visible dip
+	.0072 .0067 .0072 .0080 - 65 still lf
+	.0011 .0008 .0009 .0014 - 66 same, noisy
+1:06 - switching samples
+1:11 - microsphere confirmed, taking a break
+1:14 - next order of samples is 37-Q, 37-C, 37-F, 37-U
+2:11 - loading sample B3.4 S37-Q, conditions 19.7/43.5
+2:15 - autolanded (Z=1.154mm), snapshot taken
+	.0028 .0028 .0028 .0028 - 67 long dip region for some reason, like the above plots, drifting upwards fast
+	.0057 .0053 .0055 .0050 - 68 same as above, there seem to be two regions - non-contact and proximity region
+	.0027 .0025 .0032 .0028 - 69 same
+	.0034 .0033 .0033 .0035 - 70 same
+	.0037 .0039 .0038 .0040 - 71 same
+	.0040 .0035 .0036 .0035 - 72 same
+2:28 - switching samples
+2:30 - microsphere confirmed, loading sample B3.4 S37-C, conditions 19.7/43.8
+2:33 - autolanded (Z=1.161mm), snapshot taken
+	.0040 .0051 .0052 .0051 - 73 lf noise and divergence near dip
+	.0029 .0026 .0031 .0018 - 74 same, clear two step region near dip
+	.0005 .0007 .0006 .0010 - 75 no visible dip now, but the second step now has a dip?
+	.0019 .0020 .0017 .0020 - 76 finally looks normal
+	.0007 .0008 .0007 .0008 - 77 ok
+	.0007 .0007 .0006 .0009 - 78 lf noise and no visible dip, noise floor/guesswork
+2:45 - switching samples
+2:48 - microsphere confirmed, loading sample B3.4 S37-F, conditions 19.8/43.7
+2:49 - landed Z=1.149mm, snapshot taken
+	.0007 .0008 .0005 .0005 - 79 noise estimates
+	.0015 .0018 .0019 .0018 - 80
+	.0007 .0008 .0009 .0009 - 81
+	.0023 .0024 .0023 .0026 - 82 lf noise near dip
+	.0017 .0015 .0015 .0014 - 83 ok
+	.0020 .0019 .0019 .0018 - 84 ok
+2:57 - just for fun, an uncovered area on S37-F
+	.0094 .0092 .0093 .0089 - 85
+3:04 - switching samples
+3:07 - microsphere confirmed, loading sample B3.4 S37-U, conditions 19.8/43.7
+3:08 - landed Z=1.118mm, snapshot taken
+	.0200 .0204 .0221 .0213 - 86 ok, drifting downwards
+	.0176 .0201 .0197 .0212 - 87 ok
+	.0199 .0201 .0215 .0225 - 88
+	.0224 .0225 .0227 .0229 - 89
+	.0173 .0172 .0174 .0180 - 90 better
+	.0185 .0190 .0194 .0193 - 91 same
+3:20 - switching samples
+3:24 - microsphere confirmed, loading sample B13 S1, conditions 19.8/43.8
+3:25 - landed Z=5.247mm, snapshot taken
+	sensitivity (nm/mV): 2.633, 2.638, 2.654, 2.685
+	adhesion (mV): .0148, .0145, .0158, .0149
+	saved as 92
+3:29 - switching samples
+3:32 - microsphere confirmed, conditions 19.8/43.7, turning off AFM, samples left out covered

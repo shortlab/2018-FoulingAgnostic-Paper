@@ -1,0 +1,15 @@
+Experiment 137
+12/16/2018
+Where I measure FTO on steel (Cigdem's sample) and FTO on glass (from B4?) in water using the ezAFM
+
+1. Novascan 13 probe, 4um Nickel-coated glass, sphere looks good
+3:13 AM - Installed probe in microscope, first sample is uncoated glass
+	File naming: nx# where x={g,f,m,c}={glass side uncoated, glass side coated, metal side coated, metal side control/uncoated}
+4:15 AM - removed probe, checked microsphere still there and looks good but cantilever coated with stuff
+	
+2. Novascan 50 probe, 4um SiO2 sphere, sphere looks good
+4:20 AM - installed probe
+	File naming: sx# with x as above
+5:05 AM - removed probe, sphere still there but cantilever again coated with stuff like before
+5:07 AM - will try Novascan 47 with the coated glass, see if it's any better - also sticky but perhaps less than others
+	File naming: s2x#

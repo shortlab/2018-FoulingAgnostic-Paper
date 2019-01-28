@@ -1,0 +1,55 @@
+4/28/2017
+Experiment 108
+
+7:22 AM - glass and Si wafer samples have been under DI fan for an hour or so, now placing probe Novascan 27 (ZnO) under fan; AFM is running from E107
+7:24 - switching probes, placing Novascan 16 (R14 C26 checked) back in storage and loading Novascan 27 (R15 C16 checked)
+7:34 - loaded SiC sample B13 S1, conditions 19.6C, 56.6% RH
+7:35 - autolanded (Z=5.315mm), snapshot taken, starting measurements
+	sensitivity (nm/mV): 2.221, 2.164, 2.129, 2.230 - these might be more consistent since now I use the 'fixed range' setting so plot x-axis does not rescale between measurements!
+	adhesion (mV): too much lf noise to make sense of this, or perhaps adhesion really is 0.0300
+	saved as P0
+7:39 - switching samples
+7:42 - microsphere confirmed, it is a bit rough but not as bad as the TiO2, randomized list of glass samples is: 2-U, 2-C, 1-U, 1-C
+7:43 - loading sample B4.1 S2-U, conditions 19.6C, 56.5% RH
+7:48 - autolanded (Z=1.632mm), snapshot taken - first autoland was right on top the dust particle in snapshot (what are the chances?) so hopefully microsphere was not compromised - if it is it was probably at this point. starting measurements...
+	.0445 .0481 .0539 .0518 - P1 very nice clear big adhesion dip, but also drifting fast upwards
+	.0413 .0496 .0494 .0467 - P2 ok, there might be a trend of higher adhesion with lower applied force - also seen in P1
+	.0573 .0544 .0516 .0497 - P3 drifty
+	.0515 .0508 .0527 .0546 - P4 drifty
+	.0520 .0531 .0538 .0537 - P5 impossible to get the right force due to drift!
+	.0516 .0533 .0474 .0499 - P6 ok
+8:07 - switching samples
+8:10 - microsphere confirmed, loading sample B4.1 S2-C, conditions 19.6C, 56.8% RH
+8:11 - autolanded (Z=1.607mm), snapshot taken, starting measurements
+	.0714 .0719 .0717 .0728 - P7 ok
+	.0560 .0552 .0557 .0559 - P8 ok
+	.0581 .0599 .0755 .0755 - P9 again impossible to get consistent force
+	.0358 .0414 .0307 .0477 - P10 better
+	.0604 .0634 .0627 .0631 - P11 ok
+	.0581 .0587 .0584 .0582 - P12 ok still drifty
+8:26 - switching samples
+8:30 - microsphere confirmed, loading sample B4.1 S1-U, conditions 19.6C, 56.8% RH
+8:32 - autolanded (Z=2.624mm), snapshot taken, starting measurements
+	.0450 .0441 .0480 .0494 - P13 again impossible to get consistent force
+	.0107 .0143 .0172 .0346 - P14 same as above
+	.0219 .0215 .0189 .0143 - P15 better
+	.0095 .0089 .0075 .0083 - P16 better
+	.0155 .0163 .0164 .0156 - P17 ok (with active stabilization)
+	.0112 .0113 .0111 .0133 - P18 ok (with active stabilization)
+8:47 - switching samples
+8:50 - microsphere confirmed, loading sample B4.1 S1-C, conditions 19.6C, 56.8% RH
+8:51 - autolanded (Z=2.611mm), snapshot taken, starting measurements
+	.0070 .0066 .0075 .0069 - P19 again impossible to get consistent force
+	.0029 .0032 .0037 .0028 - P20 same as above
+	.0042 .0044 .0037 .0034 - P21 better, 'divergent' noise in plots 9,10
+	.0010 .0015 .0021 .0020 - P22 noisy
+	.0019 .0018 .0022 .0021 - P23 ok
+	.0050 .0047 .0046 .0040 - P24 ok
+9:03 - switching samples
+9:06 - microsphere confirmed, loading sample B13 S1 (SiC)
+9:07 - autolanded (Z=5.227mm), snapshot taken, starting measurements
+	sensitivity (nm/mV): 1.960, 2.229, 2.233, 2.235
+	adhesion (mV): .0336, .0342, .0354, .0394
+	saved as P25 in interest of time (setting up for remote control with Hilal)
+9:10 - switching probe
+9:13 - microsphere confirmed, putting probe Novascan 27 back in storage, loading one of the NanoMagnetics tapping probes so Hilal et al can mess with it, SiC sample also returned to box and gypsum sample that came with AFM is loaded

@@ -1,0 +1,488 @@
+D:\Experiment 117\2.txt
+D:\Experiment 117\3.txt
+D:\Experiment 117\4.txt
+D:\Experiment 117\5.txt
+D:\Experiment 117\6.txt
+D:\Experiment 117\7.txt
+D:\Experiment 117\8.txt
+D:\Experiment 117\9.txt
+
+D:\Experiment 117\43.txt
+D:\Experiment 117\44.txt
+D:\Experiment 117\45.txt
+D:\Experiment 117\46.txt
+D:\Experiment 117\47.txt
+D:\Experiment 117\48.txt
+D:\Experiment 117\49.txt
+D:\Experiment 117\50.txt
+
+D:\Experiment 117\10.txt
+D:\Experiment 117\11.txt
+D:\Experiment 117\12.txt
+D:\Experiment 117\13.txt
+D:\Experiment 117\14.txt
+D:\Experiment 117\15.txt
+D:\Experiment 117\16.txt
+D:\Experiment 117\17.txt
+
+D:\Experiment 117\67.txt
+D:\Experiment 117\68.txt
+D:\Experiment 117\69.txt
+D:\Experiment 117\70.txt
+D:\Experiment 117\71.txt
+D:\Experiment 117\72.txt
+D:\Experiment 117\73.txt
+D:\Experiment 117\74.txt
+
+D:\Experiment 117\18.txt
+D:\Experiment 117\19.txt
+D:\Experiment 117\20.txt
+D:\Experiment 117\22.txt
+D:\Experiment 117\23.txt
+D:\Experiment 117\24.txt
+D:\Experiment 117\25.txt
+D:\Experiment 117\26.txt
+
+D:\Experiment 117\51.txt
+D:\Experiment 117\52.txt
+D:\Experiment 117\53.txt
+D:\Experiment 117\54.txt
+D:\Experiment 117\55.txt
+D:\Experiment 117\56.txt
+D:\Experiment 117\57.txt
+D:\Experiment 117\58.txt
+
+D:\Experiment 117\35.txt
+D:\Experiment 117\36.txt
+D:\Experiment 117\37.txt
+D:\Experiment 117\38.txt
+D:\Experiment 117\39.txt
+D:\Experiment 117\40.txt
+D:\Experiment 117\41.txt
+D:\Experiment 117\42.txt
+
+D:\Experiment 117\59.txt
+D:\Experiment 117\60.txt
+D:\Experiment 117\61.txt
+D:\Experiment 117\62.txt
+D:\Experiment 117\63.txt
+D:\Experiment 117\64.txt
+D:\Experiment 117\65.txt
+D:\Experiment 117\66.txt
+
+D:\Experiment 117\27.txt
+D:\Experiment 117\28.txt
+D:\Experiment 117\29.txt
+D:\Experiment 117\30.txt
+D:\Experiment 117\31.txt
+D:\Experiment 117\32.txt
+D:\Experiment 117\33.txt
+D:\Experiment 117\34.txt
+
+D:\Experiment 118\18.txt
+D:\Experiment 118\19.txt
+D:\Experiment 118\20.txt
+D:\Experiment 118\21.txt
+D:\Experiment 118\22.txt
+D:\Experiment 118\23.txt
+D:\Experiment 118\24.txt
+D:\Experiment 118\25.txt
+
+D:\Experiment 118\26.txt
+D:\Experiment 118\27.txt
+D:\Experiment 118\28.txt
+D:\Experiment 118\29.txt
+D:\Experiment 118\30.txt
+D:\Experiment 118\31.txt
+D:\Experiment 118\32.txt
+D:\Experiment 118\33.txt
+
+D:\Experiment 118\10.txt
+D:\Experiment 118\11.txt
+D:\Experiment 118\12.txt
+D:\Experiment 118\13.txt
+D:\Experiment 118\14.txt
+D:\Experiment 118\15.txt
+D:\Experiment 118\16.txt
+D:\Experiment 118\17.txt
+
+D:\Experiment 118\42.txt
+D:\Experiment 118\43.txt
+D:\Experiment 118\44.txt
+D:\Experiment 118\45.txt
+D:\Experiment 118\46.txt
+D:\Experiment 118\47.txt
+D:\Experiment 118\48.txt
+D:\Experiment 118\49.txt
+
+D:\Experiment 118\50.txt
+D:\Experiment 118\51.txt
+D:\Experiment 118\52.txt
+D:\Experiment 118\54.txt
+D:\Experiment 118\55.txt
+D:\Experiment 118\56.txt
+D:\Experiment 118\57.txt
+D:\Experiment 118\58.txt
+
+D:\Experiment 118\34.txt
+D:\Experiment 118\35.txt
+D:\Experiment 118\36.txt
+D:\Experiment 118\37.txt
+D:\Experiment 118\38.txt
+D:\Experiment 118\39.txt
+D:\Experiment 118\40.txt
+D:\Experiment 118\41.txt
+
+D:\Experiment 118\2.txt
+D:\Experiment 118\3.txt
+D:\Experiment 118\4.txt
+D:\Experiment 118\5.txt
+D:\Experiment 118\6.txt
+D:\Experiment 118\7.txt
+D:\Experiment 118\8.txt
+D:\Experiment 118\9.txt
+
+D:\Experiment 118\67.txt
+D:\Experiment 118\68.txt
+D:\Experiment 118\69.txt
+D:\Experiment 118\70.txt
+D:\Experiment 118\71.txt
+D:\Experiment 118\72.txt
+D:\Experiment 118\73.txt
+D:\Experiment 118\74.txt
+
+D:\Experiment 118\59.txt
+D:\Experiment 118\60.txt
+D:\Experiment 118\61.txt
+D:\Experiment 118\62.txt
+D:\Experiment 118\63.txt
+D:\Experiment 118\64.txt
+D:\Experiment 118\65.txt
+D:\Experiment 118\66.txt
+
+D:\Experiment 122\18.txt
+D:\Experiment 122\19.txt
+D:\Experiment 122\20.txt
+D:\Experiment 122\21.txt
+D:\Experiment 122\22.txt
+D:\Experiment 122\23.txt
+D:\Experiment 122\24.txt
+D:\Experiment 122\25.txt
+
+D:\Experiment 122\10.txt
+D:\Experiment 122\11.txt
+D:\Experiment 122\12.txt
+D:\Experiment 122\13.txt
+D:\Experiment 122\14.txt
+D:\Experiment 122\15.txt
+D:\Experiment 122\16.txt
+D:\Experiment 122\17.txt
+
+D:\Experiment 122\2.txt
+D:\Experiment 122\3.txt
+D:\Experiment 122\4.txt
+D:\Experiment 122\5.txt
+D:\Experiment 122\6.txt
+D:\Experiment 122\7.txt
+D:\Experiment 122\8.txt
+D:\Experiment 122\9.txt
+
+D:\Experiment 122\26.txt
+D:\Experiment 122\27.txt
+D:\Experiment 122\28.txt
+D:\Experiment 122\29.txt
+D:\Experiment 122\30.txt
+D:\Experiment 122\31.txt
+D:\Experiment 122\32.txt
+D:\Experiment 122\33.txt
+
+D:\Experiment 122\58.txt
+D:\Experiment 122\59.txt
+D:\Experiment 122\60.txt
+D:\Experiment 122\61.txt
+D:\Experiment 122\62.txt
+D:\Experiment 122\64.txt
+D:\Experiment 122\65.txt
+D:\Experiment 122\66.txt
+
+D:\Experiment 122\42.txt
+D:\Experiment 122\43.txt
+D:\Experiment 122\44.txt
+D:\Experiment 122\45.txt
+D:\Experiment 122\46.txt
+D:\Experiment 122\47.txt
+D:\Experiment 122\48.txt
+D:\Experiment 122\49.txt
+
+D:\Experiment 122\50.txt
+D:\Experiment 122\51.txt
+D:\Experiment 122\52.txt
+D:\Experiment 122\53.txt
+D:\Experiment 122\54.txt
+D:\Experiment 122\55.txt
+D:\Experiment 122\56.txt
+D:\Experiment 122\57.txt
+
+D:\Experiment 122\67.txt
+D:\Experiment 122\68.txt
+D:\Experiment 122\69.txt
+D:\Experiment 122\70.txt
+D:\Experiment 122\71.txt
+D:\Experiment 122\72.txt
+D:\Experiment 122\74.txt
+D:\Experiment 122\75.txt
+
+D:\Experiment 122\34.txt
+D:\Experiment 122\35.txt
+D:\Experiment 122\36.txt
+D:\Experiment 122\37.txt
+D:\Experiment 122\38.txt
+D:\Experiment 122\39.txt
+D:\Experiment 122\40.txt
+D:\Experiment 122\41.txt
+
+D:\Experiment 120\38.txt
+D:\Experiment 120\39.txt
+D:\Experiment 120\40.txt
+D:\Experiment 120\41.txt
+D:\Experiment 120\42.txt
+D:\Experiment 120\43.txt
+D:\Experiment 120\44.txt
+D:\Experiment 120\45.txt
+
+D:\Experiment 120\62.txt
+D:\Experiment 120\63.txt
+D:\Experiment 120\64.txt
+D:\Experiment 120\65.txt
+D:\Experiment 120\66.txt
+D:\Experiment 120\67.txt
+D:\Experiment 120\68.txt
+D:\Experiment 120\69.txt
+
+D:\Experiment 120\54.txt
+D:\Experiment 120\55.txt
+D:\Experiment 120\56.txt
+D:\Experiment 120\57.txt
+D:\Experiment 120\58.txt
+D:\Experiment 120\59.txt
+D:\Experiment 120\60.txt
+D:\Experiment 120\61.txt
+
+D:\Experiment 120\4.txt
+D:\Experiment 120\5.txt
+D:\Experiment 120\6.txt
+D:\Experiment 120\7.txt
+D:\Experiment 120\9.txt
+D:\Experiment 120\10.txt
+D:\Experiment 120\11.txt
+D:\Experiment 120\12.txt
+
+D:\Experiment 120\13.txt
+D:\Experiment 120\14.txt
+D:\Experiment 120\15.txt
+D:\Experiment 120\16.txt
+D:\Experiment 120\18.txt
+D:\Experiment 120\19.txt
+D:\Experiment 120\20.txt
+D:\Experiment 120\21.txt
+
+D:\Experiment 120\46.txt
+D:\Experiment 120\47.txt
+D:\Experiment 120\48.txt
+D:\Experiment 120\49.txt
+D:\Experiment 120\50.txt
+D:\Experiment 120\51.txt
+D:\Experiment 120\52.txt
+D:\Experiment 120\53.txt
+
+D:\Experiment 120\22.txt
+D:\Experiment 120\23.txt
+D:\Experiment 120\24.txt
+D:\Experiment 120\25.txt
+D:\Experiment 120\26.txt
+D:\Experiment 120\27.txt
+D:\Experiment 120\28.txt
+D:\Experiment 120\29.txt
+
+D:\Experiment 120\30.txt
+D:\Experiment 120\31.txt
+D:\Experiment 120\32.txt
+D:\Experiment 120\33.txt
+D:\Experiment 120\34.txt
+D:\Experiment 120\35.txt
+D:\Experiment 120\36.txt
+D:\Experiment 120\37.txt
+
+D:\Experiment 120\70.txt
+D:\Experiment 120\71.txt
+D:\Experiment 120\72.txt
+D:\Experiment 120\73.txt
+D:\Experiment 120\74.txt
+D:\Experiment 120\75.txt
+D:\Experiment 120\76.txt
+D:\Experiment 120\77.txt
+
+D:\Experiment 119\20.txt
+D:\Experiment 119\21.txt
+D:\Experiment 119\22.txt
+D:\Experiment 119\23.txt
+D:\Experiment 119\24.txt
+D:\Experiment 119\25.txt
+D:\Experiment 119\26.txt
+D:\Experiment 119\27.txt
+
+D:\Experiment 119\70.txt
+D:\Experiment 119\71.txt
+D:\Experiment 119\72.txt
+D:\Experiment 119\73.txt
+D:\Experiment 119\74.txt
+D:\Experiment 119\75.txt
+D:\Experiment 119\76.txt
+D:\Experiment 119\77.txt
+
+D:\Experiment 119\36.txt
+D:\Experiment 119\37.txt
+D:\Experiment 119\38.txt
+D:\Experiment 119\39.txt
+D:\Experiment 119\40.txt
+D:\Experiment 119\41.txt
+D:\Experiment 119\42.txt
+D:\Experiment 119\43.txt
+D:\Experiment 119\44.txt
+
+D:\Experiment 119\12.txt
+D:\Experiment 119\13.txt
+D:\Experiment 119\14.txt
+D:\Experiment 119\15.txt
+D:\Experiment 119\16.txt
+D:\Experiment 119\17.txt
+D:\Experiment 119\18.txt
+D:\Experiment 119\19.txt
+
+D:\Experiment 119\45.txt
+D:\Experiment 119\46.txt
+D:\Experiment 119\47.txt
+D:\Experiment 119\48.txt
+D:\Experiment 119\50.txt
+D:\Experiment 119\51.txt
+D:\Experiment 119\52.txt
+D:\Experiment 119\53.txt
+
+D:\Experiment 119\3.txt
+D:\Experiment 119\4.txt
+D:\Experiment 119\5.txt
+D:\Experiment 119\6.txt
+D:\Experiment 119\7.txt
+D:\Experiment 119\8.txt
+D:\Experiment 119\9.txt
+D:\Experiment 119\10.txt
+D:\Experiment 119\11.txt
+
+D:\Experiment 119\28.txt
+D:\Experiment 119\29.txt
+D:\Experiment 119\30.txt
+D:\Experiment 119\31.txt
+D:\Experiment 119\32.txt
+D:\Experiment 119\33.txt
+D:\Experiment 119\34.txt
+D:\Experiment 119\35.txt
+
+D:\Experiment 119\54.txt
+D:\Experiment 119\55.txt
+D:\Experiment 119\56.txt
+D:\Experiment 119\57.txt
+D:\Experiment 119\58.txt
+D:\Experiment 119\59.txt
+D:\Experiment 119\60.txt
+D:\Experiment 119\61.txt
+
+D:\Experiment 119\62.txt
+D:\Experiment 119\63.txt
+D:\Experiment 119\64.txt
+D:\Experiment 119\65.txt
+D:\Experiment 119\66.txt
+D:\Experiment 119\67.txt
+D:\Experiment 119\68.txt
+D:\Experiment 119\69.txt
+
+D:\Experiment 121\2.txt
+D:\Experiment 121\3.txt
+D:\Experiment 121\4.txt
+D:\Experiment 121\5.txt
+D:\Experiment 121\6.txt
+D:\Experiment 121\7.txt
+D:\Experiment 121\8.txt
+D:\Experiment 121\9.txt
+
+D:\Experiment 121\10.txt
+D:\Experiment 121\11.txt
+D:\Experiment 121\12.txt
+D:\Experiment 121\13.txt
+D:\Experiment 121\14.txt
+D:\Experiment 121\15.txt
+D:\Experiment 121\16.txt
+D:\Experiment 121\17.txt
+
+D:\Experiment 121\51.txt
+D:\Experiment 121\52.txt
+D:\Experiment 121\53.txt
+D:\Experiment 121\54.txt
+D:\Experiment 121\55.txt
+D:\Experiment 121\56.txt
+D:\Experiment 121\57.txt
+D:\Experiment 121\58.txt
+
+D:\Experiment 121\18.txt
+D:\Experiment 121\19.txt
+D:\Experiment 121\20.txt
+D:\Experiment 121\21.txt
+D:\Experiment 121\22.txt
+D:\Experiment 121\23.txt
+D:\Experiment 121\24.txt
+D:\Experiment 121\25.txt
+
+D:\Experiment 121\42.txt
+D:\Experiment 121\43.txt
+D:\Experiment 121\44.txt
+D:\Experiment 121\45.txt
+D:\Experiment 121\47.txt
+D:\Experiment 121\48.txt
+D:\Experiment 121\49.txt
+D:\Experiment 121\50.txt
+
+D:\Experiment 121\67.txt
+D:\Experiment 121\68.txt
+D:\Experiment 121\69.txt
+D:\Experiment 121\70.txt
+D:\Experiment 121\71.txt
+D:\Experiment 121\72.txt
+D:\Experiment 121\73.txt
+D:\Experiment 121\74.txt
+
+D:\Experiment 121\59.txt
+D:\Experiment 121\60.txt
+D:\Experiment 121\61.txt
+D:\Experiment 121\62.txt
+D:\Experiment 121\63.txt
+D:\Experiment 121\64.txt
+D:\Experiment 121\65.txt
+D:\Experiment 121\66.txt
+
+D:\Experiment 121\26.txt
+D:\Experiment 121\27.txt
+D:\Experiment 121\28.txt
+D:\Experiment 121\29.txt
+D:\Experiment 121\30.txt
+D:\Experiment 121\31.txt
+D:\Experiment 121\32.txt
+D:\Experiment 121\33.txt
+
+D:\Experiment 121\34.txt
+D:\Experiment 121\35.txt
+D:\Experiment 121\36.txt
+D:\Experiment 121\37.txt
+D:\Experiment 121\38.txt
+D:\Experiment 121\39.txt
+D:\Experiment 121\40.txt
+D:\Experiment 121\41.txt
+

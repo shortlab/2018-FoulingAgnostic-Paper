@@ -1,0 +1,99 @@
+4/18/2017
+
+11:54 PM - turned on DI fan, placed samples under fan. Probe is already in AFM so not placed under fan. AFM laser and light turned on for warming up.
+12:22 AM - going upstairs to: get water, wash apple, get FIB key to get temp probe, and mount SiC sample. Got magnets from chiller unit. Covered samples and turned off DI fan.
+1:07 - got everything done, starting experiment per updated procedure. Probe Novascan 47 is already installed on microscope and I checked presence of microsphere yesterday. Now time for laser alignment.
+1:15 - auto-land on SiC successful. Conditions: 20.7C, 32.5% RH.
+	Measurements from plots 4,5,6:
+		sensitivity (nm/mV) 31.25/6.57, 23.44/5, 54.69/10.03
+			decimal form: 4.756, 4.688, 5.453
+		adhesion (mV) 0.0110, .0111, .0115
+	Plots saved: Plot0
+1:26 - measured another point, plots 28, 27, 26
+	sensitivity: 56.33/11.92, 56.33/10.65, 56.33/10.93
+		decimal form: 4.726, 5.289, 5.154
+	adhesion: 0.0150, .0174, .0158
+	Plots saved: Plot1
+1:35 - microsphere presence confirmed
+	Loading sample: Uncoated Si wafer B3.4 S37-U, with magnets to hold down
+1:40 - loaded sample, it is too small for external magnets; aligned and placed water droplet
+	Conditions: 20.3C, 34.2% RH
+1:43 - auto-land successful. starting FD measurements (moving in X+/Y+ dirs)
+	.0164 .0172 .0181 .0176 - Plot2
+	.0178 .0168 .0175 .0176 - Plot3 (snapshot taken)
+	.0148 .0143 .0159 .0172 - Plot4
+	.0129 .0135 .0140 .0149 - Plot5
+	.0123 .0118 .0126 .0125 - Plot6
+	.0138 .0123 .0137 .0134 - Plot7
+	.0142 .0131 .0127 .0133 - Plot8
+2:05 - switching samples
+2:09 - microsphere confirmed, loading cryolite coated wafer B3.4 S37-C
+2:14 - autoland successful, snapshot taken - crackly appearance! For these tests I will probe only central grain areas, not cracks (like in snapshot - probe was moved afterwards)
+	.0005 .0005 .0012 .0008 - P9 (no 'dip' was observed in any case - best-guess noise figure is listed here, it is generally conservative (rounding upwards))
+	.0007 .0011 .0008 .0005 (same as above) - P10
+	.0009 .0006 .0010 - P11 (forgot to null FN for this one so min at -0.0300)
+	.0007 .0008 .0008 .0009 - P12
+	decided to end here because sample was moving around, don't want to damage probe (have to come up with a better way to hold down sample, water tension moves it around)
+2:34 - switching samples
+2:38 - microsphere confirmed, loading quarts coated wafer B3.4 S37-Q
+2:40 - conditions 20.4C, 38.6% RH
+2:41 - autoland successful, starting measurements (snapshot taken)
+	.0012 .0007 .0006 .0008 - P13 (here a 'dip' was somewhat visible but mostly not)
+	.0009 .0010 .0012 .0014 - P14 (same as above)
+	.0010 .0010 .0005 .0006 - P15
+	.0008 .0007 .0007 .0008 - P16
+	.0007 .0004 .0008 .0006 - P17
+	.0007 .0006 .0004 .0007 - P18 (this has been a very pleasant sample to test, flat and not moving around)
+2:58 - switching samples
+3:01 - microsphere confirmed, loading fluorite coated wafer B3.4 S37-F
+3:05 - conditions 20.4C, 34.7% RH
+3:06 - autoland successful, snapshot taken, starting measurements
+	.0005 .0005 .0007 .0006 - P19 (same as cryolite, best (rounded up - probably higher by factor of 2 than average underlying curve - guess on noise floor))
+	.0009 .0008 .0006 .0004 - P20
+	.0004 .0007 .0006 .0008 - P21
+	.0006 .0006 .0008 .0006 - P22
+	.0005 .0006 .0006 .0006 .0008 - P23 (the first value's plot was not saved)
+	.0004 .0004 .0008 .0007 - P24
+3:25 - switching samples
+3:29 - microsphere confirmed, taking a small break, AFM left powered on with laser/light, samples B3.4 S37 are left out to air dry
+4:26 - returned from break, will be re-measuring samples from E100 - the four glass slides. Samples in order: 1-U, 1-C, 2-C, 2-U 'random'
+4:29 - loading sample B4.1 S1-U, conditions 20.4C, 34.3% RH
+4:34 - autoland successful (Z=2.86), snapshot taken, starting measurements
+	.0052 .0058 .0061 .0062 - P25 (way much clearer than earlier plots of adhesion-resistant samples)
+	.0057 .0051 .0060 .0067 - P26
+	.0128 .0123 .0122 .0131 - P27
+	.0111 .0111 .0133 .0112 - P28
+	.0082 .0102 .0095 .0089 - P29
+	.0091 .0104 .0096 .0085 - P30
+4:53 - switching samples
+4:56 - microsphere confirmed, loading B4.1 S1-C, conditions 20.4C, 34.6% RH
+4:59 - autoland successful (Z=2.85), snapshot taken, starting measurements
+	.0013 .0010 .0010 .0015 - P31
+	.0012 .0011 .0010 .0007 - P32 (these were much more difficult to read, no clear dip)
+	.0006 .0011 .0010 .0010 - P33 (again seems to be no indication of adhesion, very noisy - will restart FD window next time)
+	.0011 .0011 .0014 .0009 - P34 (somewhat clearer dip)
+	.0006 .0009 .0006 .0007 - P35 (barely noticeable dip)
+	.0007 .0004 .0006 .0002 - P36 (same as above)
+5:17 - switching samples
+5:20 - microsphere confirmed, loading B4.1 S2-C (ITO), conditions 20.3C, 37.0% RH
+5:24 - autoland successful (Z=2.52), snapshot taken, starting measurements
+	.0067 .0062 .0051 .0052 - P37
+	.0054 .0043 .0064 .0038 - P38
+	.0048 .0068 .0049 .0070 - P39
+	.0037 .0041 .0032 .0034 - P40 (this is at the same point as P39, but it seemed that the tip position had stabilized more - perhaps not)
+	.0053 .0055 .0053 .0049 - P41
+	.0068 .0052 .0063 .0059 - P42
+	.0069 .0066 .0072 .0085 - P43
+5:48 - switching samples
+5:52 - microsphere confirmed, loading B4.1 S2-U, conditions 20.4C, 34.7% RH
+5:55 - autoland successful (Z=2.52), snapshot taken, starting measurements
+	.0045 .0045 .0044 .0038 - P44
+	.0034 .0030 .0038 .0032 - P45
+	.0040 .0040 .0032 .0040 - P46
+	.0037 .0040 .0040 .0037 - P47
+	.0031 .0033 .0031 .0033 - P48
+	.0037 .0039 .0036 .0039 - P49
+6:16 - switching samples
+6:20 - microsphere confirmed, taking a break, AFM left powered on with laser/light, sample B4.1 S2 left out to air dry, others covered
+7:12 - continuing on to B2.1.1 and B1.1.1 samples 1 through 11
+	New sequence: 7 3 10 1 4 5 6 11

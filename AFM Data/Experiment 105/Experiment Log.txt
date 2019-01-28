@@ -1,0 +1,91 @@
+4/25/2017
+Experiment 105
+
+8:08 AM - warming up AFM, placing all samples under DI fan
+8:12 - got fresh DI water (from glass flask) into syringe, plan now is to continue SiO2 probe testing of remaining homogeneous mineral samples: 1 4 5 7 9 10 11
+	Randomized order is 11 9 7 5 1 4 10 (of which 7 4 and 10 will require picking the clearest/most transparent area for sampling)
+8:26 - loading SiC sample, turned off DI fan and covered other samples, microsphere was already checked from last experiment E104 (probe is Novascan 48), conditions 19.5C, 42.8% RH
+8:33 - autoland successful (Z=3.665mm), snapshot taken, starting measurements
+	sensitivity (nm/mV): 48.19/12.08, 37.21/8.97, 29.28/7.15, 34.77/7.53
+		in decimal form: 3.989, 4.148, 4.095, 4.618
+	adhesion (mV): .0160, .0130, .0143, .0142 (these are best guesses since there is no flat section against which to measure)
+	saved as P0
+8:46 - switching samples
+8:49 - microsphere confirmed, loading sample B1.1.1 S11, conditions 19.7C, 42.6% RH
+9:00 - autoland successful (Z=2.523mm), snapshot taken, starting measurements
+	.0046 .0052 .0053 .0050 - not saved
+9:08 - moved around, I think previously I was not on the crystal, now I should be based on microscope image - new snapshot taken, restarting measurements
+	.0042 .0029 .0035 .0035 - P1
+	.0114 .0120 .0110 .0120 - didn't save; saw a new type of noise where retract curve trailed downwards on the left
+	.0043 .0047 .0051 .0047 - P2 drifty
+	.0046 .0048 .0049 .0042 - P3 drifting a bit but readable
+	.0032 .0036 .0045 .0033 - P4
+	.0030 .0029 .0028 .0030 - P5 see plot 4 for a mild case of the 'new noise' from above
+9:26 - switching samples
+9:43 - could not really tell whether above was epoxy or the crystal, and under optical microscope crytal looked very irregular/poorly polished. microsphere however is still present. loading sample B1.1.1 S9, conditions 20.0C, 42.1% RH
+9:49 - autoland successful (I ensured it is on the mineral and not epoxy) (Z=2.422mm), snapshot taken, starting measurements (avoiding the pits and scratches)
+	.0123 .0114 .0116 .0124 - P6 low freq noise, drifting downwards
+	.0075 .0071 .0084 .0085 - P7 ok, noise is gone but drifty (upwards)
+	.0088 .0088 .0085 .0090 - P8 onset of low freq noise
+	.0095 .0099 .0103 .0122 - P9
+	.0069 .0069 .0069 .0071 - P10 huge noise on first few plots
+	.0108 .0108 .0098 .0117 - P11 ok
+10:08 - switching samples
+10:10 - microsphere confirmed, loading sample B1.1.1 S7 (with magnet under it to make it level), conditions 20.1C, 42.1% RH
+10:15 - autoland successful (Z=3.009mm), snapshot taken, starting measurements
+	.0044 .0049 .0048 .0044 - P12 ok but very drifty upwards
+	.0017 .0017 .0018 .0014 - P13 ok again drifty
+	.0042 .0032 .0032 .0030 - P14 ok
+	.0019 .0024 .0028 .0028 - P15 ok
+	.0030 .0032 .0026 .0029 - P16 ok
+	.0022 .0026 .0024 .0013 - P17
+10:31 - switching samples
+10:33 - microsphere confirmed, loading sample B1.1.1 S5, conditions 20.1C, 42.2% RH
+10:37 - autoland successful (Z=2.528mm), snapshot taken, starting measurements
+	first it was drifting down then on next landing it was drifting up, I don't think it's a sample issue
+	.0009 .0009 .0012 .0009 - P18
+	.0011 .0014 .0013 .0014 - P19
+	.0011 .0008 .0010 .0009 - P20 drifty downwards
+	.0018 .0014 .0018 .0017 - P21 probably best one in the series
+	.0031 .0030 .0032 .0027 - P22 ok
+	.0013 .0015 .0014 .0012 - P23 ok vlf noise
+10:58 - switching samples
+11:03 - microsphere confirmed, taking a break, AFM left on and samples covered, conditions 20.1C, 42.0% RH
+2:19 - resuming experiment, loading sample B2.1.1 S1, conditions 20.1C, 42.1% RH
+2:23 - autoland successful (Z=2.755mm), snapshot taken, starting measurements
+	.0016 .0016 .0020 .0023 - P24 ok
+	.0030 .0032 .0047 .0040 - P25 ok
+	.0039 .0035 .0038 .0035 - P26 ok
+	.0052 .0050 .0046 .0042 - P27 ok
+	.0031 .0029 .0035 .0034 - P28 good, low noise and drift
+	.0031 .0036 .0030 .0031 - P29 a bit of curvature on the non-contact end but overall clear
+	I found experimentally that the software only maintains the last range boundaries and applies them to all plots - therefore all plots must use the same boundaries or boundary conditions for stiffness comparison.
+2:46 - switching samples
+2:48 - microsphere confirmed, loading sample B2.1.1 S4, conditions 20.2C, 42.0% RH
+2:52 - autoland successful (Z=2.659mm), snapshot taken, starting measurements
+	.0006 .0009 .0006 .0006 - P30 noise estimates
+	.0012 .0010 .0012 .0010 - P31 ok
+	.0007 .0006 .0010 .0009 - P32 lf noise
+	.0015 .0016 .0015 .0014 - lost (replaced by below) ok
+	.0008 .0007 .0009 .0011 - P33 (replaced) ok - very drifty sample (both ways)
+	.0008 .0007 .0004 .0005 - P34 again largely noise floor
+3:14 - switching samples
+3:16 - microsphere confirmed, loading sample B1.1.1 S10, conditions 20.3C, 42.9% RH
+3:20 - autoland successful (Z=2.471mm), snapshot taken, starting measurements
+	.0017 .0016 .0014 .0015 - P35 good, some lf noise
+	.0009 .0008 .0007 .0009 - P36 noise estimates, here I explicitly observed a bubble or something else nearby that was 'shimmering' on the camera view, that must have been a source of extra noise - moving away from that area decreased noise. Thus I think observed noise is a combined effect of the high sensitivity necessary and the laser light scattered off the sample that makes it to the photodiode.
+	.0008 .0007 .0011 .0010 - P37 noise estimates
+	.0006 .0010 .0006 .0006 - P38 noise estimates
+	.0008 .0007 .0004 .0007 - P39 noise estimates
+	.0008 .0008 .0009 .0009 - P40 noise estimates
+3:41 - switching samples; tried to find epoxy area for comparison but I don't think I reached it
+3:49 - microsphere confirmed but there is some either cracking or contamination coating on the cantilever (probably from the epoxy-finding attempt above) so stiffness might now be different?
+3:50 - loading SiC sample, conditions 20.4C, 44.1% RH
+3:53 - autoland successful (Z=3.671mm), snapshot taken, starting measurements
+	for this, range cannot be changed! last range used must apply to all plots due to the buggy software.
+	sensitivity (nm/mV): 38.48/8.94, 43.16/10.20, 43.16/8.72, 33.80/7.77
+		in decimal form: 4.304, 4.231, 4.950, 4.350
+	adhesion (mV): .0057, .0057, .0056, .0056
+	saved as P41
+4:21 - switching samples
+4:24 - microsphere confirmed (Novascan 48) but still cracking and/or contamination on cantilever end. Probe returned to its labeled container, and Novascan 15 (R14 C27 checked) is installed for the next experiment.

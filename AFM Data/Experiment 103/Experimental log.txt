@@ -1,0 +1,67 @@
+4/20/2017
+
+2:00 PM - warming up AFM, plan is to finish up rest of sample sequence from yesterday, namely samples 8 2 6 11 9. I will be using the Novascan 48 probe instead of yesterday's Novascan 47 in case this one happens to be more sensitive (this depends highly on the alignment also). The probe is already installed and microsphere checked from end of E102 earlier today.
+2:18 - probe laser aligned to get cantilever ready message (FT:0.27V, don't know whether that's good or bad). Samples placed under DI fan.
+2:21 - SiC sample loaded, conditions 19.8C, 42.0% RH
+2:23 - autoland successful (Z=3.712mm), snapshot taken, starting measurements
+	adhesion (mV): .0074 .0073 .0073 .0076
+	stiffness (nm/mV): 47.70/12.36, 27.6/6.28, 37.5/8.69, 26.4/5.32
+		in decimal form: 3.859, 4.395, 4.315, 4.962
+		saved plots as P0
+	parameters for FD: range 500 nm, speed 1000 nm/s, number of samples 2000, wait time 1000
+2:32 - switching samples
+2:36 - microsphere confirmed, loading sample B1.1.1 S8 (microcline), conditions 19.9C, 42.0% RH
+2:39 - autoland successful (Z=2.929mm), snapshot taken, starting measurements (moving by 100um)
+	.0033 .0043 .0035 .0026 - P1 lots of low frequency noise
+	.0043 .0042 .0042 .0045 - P2 these were quite nice
+	.0018 .0016 .0012 .0012 - P3 a lot of guesswork here as it was really tiny and smooth dip
+	.0013 .0015 .0019 .0017 - P4 similar to above but a bit clearer
+	.0036 .0034 .0039 .0034 - P5 fairly easy to read
+	.0018 .0020 .0020 .0020 - P6 reasonable
+3:01 - switching samples
+3:04 - microsphere confirmed, loading sample B2.1.1 S2 (muscovite), conditions 20.0C, 42.1% RH
+3:08 - autoland successful (Z=2.623mm), snapshot taken, starting measurements
+	.0011 .0012 .0009 .0009 - P7 reasonable, there are high frequency 'spikes' throughout as another concern for the company
+	.0017 .0012 .0015 .0011 - P8 a bit questionable guesswork on the last plots, but dip is visible
+	.0006 .0009 .0008 .0012 - P9 mostly noise estimates except for last one, nulled FN
+	.0009 .0006 .0007 .0006 - P10 these are all noise estimates (looks like I forgot to save, oops)
+	.0012 .0017 .0011 .0011 - P11 reasonable
+	.0011 .0011 .0012 .0015 - P12 reasonable
+3:30 - switching samples
+3:33 - microsphere confirmed, loading sample B1.1.1 S6 (olivine), conditions 20.1C, 42.0% RH
+3:36 - autoland successful (Z=2.655mm), snapshot taken, starting measurements
+	.0012 .0006 .0009 .0007 - P13 noise estimates
+	.0014 .0010 .0012 .0012 - P14 ok
+	.0014 .0017 .0011 .0010 - P15 ok
+	.0007 .0008 .0009 .0009 - P16 ok
+	.0010 .0005 .0005 .0006 - P17 noise estimates
+	.0024 .0022 .0024 .0020 - P18 quite clear
+3:53 - switching samples
+3:56 - microsphere confirmed, loading sample B1.1.1 S11 (fluorite), conditions 20.1C, 42.0% RH
+4:00 - autoland successful (Z=2.567mm), snapshot taken, starting measurements
+	this sample is very drifty!
+	.0025 - P19 it is very difficult to get this, the sample is drifting downwards now!
+	.0027 .0018 .0025 .0022 - P20 again tough to catch but easy to read
+	.0006 .0009 .0009 - P21
+	.0018 .0022 .0018 - P22
+	.0007 .0007 .0008 .0006 - P23 hard to tell anything, very low freq noise
+	.0012 .0012 .0009 .0010 - P24 also very smooth dip
+4:22 - switching samples
+4:26 - microsphere confirmed, loading sample B1.1.1 S9 (pyrite), conditions 20.2C, 41.8% RH
+4:30 - autoland successful (Z=2.503mm), snapshot taken (note: shift focus to ~39 when taking snapshots to focus on substrate), starting measurements
+	.0268 .0262 .0257 .0255 - P25 easy to read but hard to catch right preload force
+	.0063 .0069 .0061 .0060 - P26 ok
+	.0044 .0046 .0053 .0047 - P27 ok
+	.0078 .0084 .0079 .0078 - P28 ok
+	.0056 .0060 .0061 .0060 - P29 ok but low frequency noise is significant
+	.0042 .0041 .0047 .0046 - P30 ok but low frequency noise is present
+4:49 - switching samples
+4:52 - microsphere confirmed, loading SiC sample, conditions 20.3C, 41.8% RH
+	for the report to the company note that null FN doesn't work right away (two clicks necessary)
+4:54 - autoland successful (Z=3.708mm), snapshot taken, starting measurements
+	adhesion (mV): .0007, .0010, .0013, .0017
+	stiffness (nm/mV): 26.22/6.22, 32.40/8.06, 20.16/4.44, 52/10.81
+		in decimal form: 4.215, 4.020, 4.541, 4.810
+	saved as P31
+5:00 - switching samples
+5:05 - microsphere confirmed, shutting down AFM, leaving probe Novascan 48 installed for next experiment (probe label confirmed R13 C27)

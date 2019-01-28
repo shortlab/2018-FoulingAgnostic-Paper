@@ -1,0 +1,138 @@
+Experiment 117
+6/30/2017
+Using a Ni-coated 4um probe with different mineral and coated substrates
+
+12:30 AM - AFM turned on to warm up
+2:39 - 'fresh' water put in syringe, removing probe Novascan 49 (R13 C26 confirmed) - cantilever broken
+2:43 - Novascan 12 and samples put under DI fan
+2:53 - Novascan 12 (R15 C11 confirmed) installed in AFM. Microsphere confirmed. Samples covered up and DI fan turned off.
+4:35 - turning off AFM after a very productive time
+
+7/6/2017
+10:57 PM - AFM turned on to warm up, 'fresh' water put in syringe
+11:31 - this time I will not record mV values, relying instead on the 'work of adhesion' script to calculate them later. I will still record FD settings, and will still try to maintain a maximum contact force of .0150 V. I will also use the SiC calibration sample, to have a reference point for the script.
+11:36 - order of samples carried over from E115:
+	SiC calibration sample (B13 S1, 5.318 mm)
+	Calcite solid (B1.1.1 S7, 3.546 mm)
+	Cryolite solid (B2.1.1 S4, 2.119 mm)
+	Fluorite coated (B3.4 S38-F, 1.207 mm)
+	ITO Coated (B4.1 S2-C, 1.601 mm)
+	Uncoated Si (B3.4 S38-U, 1.119 mm)
+	Quartz solid (B2.1.1 S1, 2.294 mm)
+	Quartz coated (B3.4 S38-Q, 1.182 mm)
+	FTO Coated (B4.1 S1-C, 2.584 mm)
+	Cryolite coated (B3.4 S38-C,1.120 mm)
+	SiC calibration sample (B13 S1, 5.318 mm)
+12:01 AM - loading sample B13 S1, conditions 20.4/62.1
+12:05 - landed Z=5.250 mm, snapshot taken, other samples placed under DI fan
+12:06 - FD Parameters: 500 nm range, 1000 nm/sec speed, 2000 samples, wait time 1000 ms.
+12:15 - SiC curves saved as 0, 1. However there were some poor plots initially, I tried 3 different spots and quality of FD curves seems to be improving. Perhaps there was charge or bacteria earlier.
+12:19 - switching samples. DI fan turned off and rest of samples covered. 250-300 nm offset for FD curves is used. B13 S1 placed under DI fan for a little bit.
+12:24 - microsphere confirmed. loading sample B1.1.1 S7, conditions 20.8/60.0
+12:30 - landed Z=3.173 mm, snapshot taken, starting measurements
+	2
+	3
+	4
+	5 very drifty upwards
+	6 better
+	7 ok
+	8 ok
+	9 ok
+12:41 - switching samples. microsphere confirmed.
+12:44 - loading sample B2.1.1 S4, conditions 20.9/59.6
+12:47 - landed Z=2.060 mm, snapshot taken
+	10 ok
+	11 ok
+	12 stable
+	13 drifting upwards?
+	14 ok
+	15 lf noisy
+	16 ok
+	17 ok
+1:00 - switching samples. microsphere confirmed
+1:02 - loading sample B3.4 S38-F, conditions 20.9/59.0
+1:05 - landed Z=1.139mm, snapshot taken
+	18 ok
+	19 ok
+	20 ok
+	21 UNCOATED AREA more sticky as expected
+	22 ok
+	23 ok
+	24 ok
+	25 ok
+	26 ok
+1:18 - switching samples. microsphere confirmed.
+1:22 - loading sample B4.1 S2-C, conditions 21.0/58.7
+1:23 - landed Z=1.609mm, snapshot taken
+	27 drifty but low noise
+	28 ok
+	29 ok consistent
+	30 ok
+	31 ok
+	32 ok consistent
+	33 ok
+	34 ok
+1:35 - switching samples
+1:38 - microsphere confirmed. loading sample B3.4 S38-U, conditions 21.1/58.4
+1:39 - landed Z=1.101mm, snapshot taken
+	35 ok
+	36 ok
+	37 ok
+	38 ok
+	39 ok
+	40 ok - went too far (2000 nm over contact point) from typo - hopefully probe is not affected, slope of rising curve looks same before/after
+	41 ok
+	42 ok
+1:51 - switching samples
+1:54 - microsphere confirmed, some loose dust on cantilever. AFM left powered on, taking a break.
+5:17 - resuming measurements. loading sample B2.1.1 S1, conditions 20.8/58.7
+5:20 - landed Z=2.345mm, snapshot taken
+	43 ok
+	44 drifting up
+	45 drifting both ways
+	46 ok consistent
+	47 ok, double dip
+	48 ok
+	49 ok
+	50 ok
+5:36 - switching samples
+5:40 - microsphere confirmed, loose dust still there. loading sample B3.4 S38-Q, conditions 21.0/58.3
+5:41 - landed Z=1.182mm, snapshot taken
+	51 very drifty
+	52 ok
+	53 ok
+	54 some divergent noise, hard to keep constant force
+	55 ok
+	56 ok
+	57 ok drifty
+	58 ok
+5:55 - switching samples
+5:59 - microsphere confirmed. loading sample B4.1 S1-C, conditions 21.1/58.1
+6:00 - landed Z=2.584mm, snapshot taken
+	59 moving fast
+	60 ok, lf, noise floor
+	61 ok
+	62 ok
+	63 ok
+	64 ok
+	65
+	66 lf, smooth
+6:12 - switching samples
+6:16 - microsphere confirmed, loading sample B3.4 S38-C, conditions 21.1/58.0
+6:17 - water wetted sample and made cantilever lose reading, trying again with more water
+6:19 - landed Z=1.120mm, snapshot taken
+	67 ok
+	68
+	69
+	70
+	71
+	72 weird shape, smooth
+	73
+	74 some divergent noise
+6:33 - switching samples
+6:38 - microsphere confirmed, possibly some small dust on sphere. loading sample B13 S1, conditions 21.2/57.7
+6:39 - landed Z=5.266 mm, snapshot taken
+	75 moving around a lot
+	76 better
+6:42 - switching samples
+6:44 - microsphere confirmed, looks ok contamination-wise. probe left in AFM, shutting down AFM, samples left outside to air dry.

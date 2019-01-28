@@ -1,0 +1,146 @@
+Experiment 119
+7/10/2017
+Of sample matrix with TiO2 probe
+
+11:00 AM - recalling earlier random probe order from E115, today I will continue on with TiO2 probe. Only one of these is new - Novascan 18 - so I will try to be careful.
+	SiO2
+	Ni
+	Ag
+	TiO2
+	SS304
+	ZnO
+11:01 - warming up AFM
+11:18 - shutting down AFM as I am too tired to continue now
+
+7/11/2017
+
+7:55 AM - warming up AFM
+8:47 - turned on DI fan, placed probe Novascan 18 under fan, removing probe Novascan 22 (R15 C22 confirmed)
+8:57 - loading probe Novascan 18 (R14 C24 confirmed)
+9:05 - randomized sample order:
+	SiC calibration sample (B13 S1, 5.318 mm)
+    Quartz coated (B3.4 S38-Q, 1.182 mm)
+    Cryolite coated (B3.4 S38-C,1.120 mm)
+    Calcite solid (B1.1.1 S7, 3.546 mm)
+    Uncoated Si (B3.4 S38-U, 1.119 mm)
+    Cryolite solid (B2.1.1 S4, 2.119 mm)
+    Fluorite coated (B3.4 S38-F, 1.207 mm)
+    FTO Coated (B4.1 S1-C, 2.584 mm)
+    ITO Coated (B4.1 S2-C, 1.601 mm)
+    Quartz solid (B2.1.1 S1, 2.294 mm)
+	SiC calibration sample (B13 S1, 5.318 mm)
+9:34 - loading sample B13 S1, conditions 21.2/66.3
+9:35 - landed Z=5.244mm, snapshot taken
+	0 - low adhesion
+	1 - offset 200 nm
+	2 - stickier, offset 160 nm
+9:44 - switching samples
+9:54 - microsphere confirmed, it is very rough and light (white - hard to see). loading sample B3.4 S38-Q, conditions 21.4/65.3
+9:58 - landed Z=1.187 mm, snapshot taken
+	3 - drifting
+	4 - offset 150 nm
+	5 160 nm
+	6
+	7
+	8 more consistent
+	9
+	10 still drifting
+	11 to get a better baseline
+10:11 - switching samples
+10:15 - microsphere confirmed, there is a piece of dust behind the sphere. loading sample B3.4 S38-C, conditions 21.6/64.7
+10:16- landed Z=1.142mm, snapshot taken
+	12 drifting all over the place, up and down
+	13 some strange plots where the approach curve gets a repulsive spike, haven't seen this before
+	14 drifty
+	15 same
+	16
+	17
+	18
+	19 again all over the place
+10:42 - switching samples
+10:57 - microsphere confirmed. loading sample B1.1.1 S7, conditions 21.7/65.0
+10:58 - landed Z=3.152mm, snapshot taken
+	20 drifting all over then becoming sticky
+	21 lf noise
+	22
+	23 ok for once
+	24
+	25
+	26 lf noise
+	27
+11:10 - switching samples
+11:14 - microsphere confirmed, some type of liquid layers of contaminant on cantilever, hopefully will get washed away by water. loading sample B3.4 S38-U, conditions 21.8/64.7
+11:15 - landed Z=1.134mm, snapshot taken
+	28
+	29
+	30
+	31
+	32
+	33
+	34
+	35
+11:28 - switching samples
+11:32 - microsphere confirmed, thin film contaminant still on cantilever. loading sample B2.1.1 S4, conditions 21.8/64.8
+11:33 - landed Z=2.065mm, snapshot taken
+	36 drifting upwards fast
+	37 ok
+	38
+	39
+	40
+	41 - only saved 1
+	42
+	43
+	44
+11:47 - switching samples
+11:50 - microsphere confirmed, taking a break, AFM left on
+12:57 - loading sample B3.4 S38-F, conditions 21.8/65.6
+12:58 - landed Z=1.194mm, snapshot taken
+	45 drifting up fast
+	46 all over
+	47 lf noise
+	48 all over
+	49 UNCOATED
+	50
+	51 ok
+	52
+	53 all of these are drifting around fast
+1:18 - switching samples
+1:21 - microsphere confirmed, loading sample B4.1 S1-C, conditions 21.9/65.9
+1:22 - landed Z=2.604mm, snapshot taken
+	54 drifting up fast
+	55 lf noise
+	56
+	57
+	58
+	59
+	60
+	61
+1:34 - switching samples
+1:38 - microsphere confirmed, loading sample B4.1 S2-C, conditions 21.9/66.0
+1:39 - landed Z=1.607mm, snapshot taken
+	62 drifting up fast
+	63 same
+	64
+	65
+	66
+	67
+	68
+	69
+1:50 - switching samples
+1:53 - microsphere confirmed (still piece of dust next to it), loading sample B2.1.1 S1, conditions 22.0/65.9
+1:54 - landed Z=2.324mm, snapshot taken
+	70 drifting up fast
+	71
+	72
+	73
+	74
+	75
+	76
+	77 also drifting
+2:06 - switching samples
+2:10 - microsphere confirmed, loading sample B13 S1, conditions 22.0/65.6
+2:11 - landed Z=5.250mm, snapshot taken
+	78
+	79
+2:13 - switching samples
+2:15 - microsphere confirmed, turning off AFM

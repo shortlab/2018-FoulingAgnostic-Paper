@@ -1,0 +1,106 @@
+4/25/2017
+Experiment 106
+
+4:39 PM - installed probe Novascan 15 (TiO2) (R14 C27), it was already aligned so will test out performance with SiC sample
+4:48 - placed entire scanner head under DI fan, will begin the TiO2 testing with the thin coatings, randomized order is: 37-Q, 2-C, 1-U, 2-U, 37-C, 37-U, 37-F, 1-C; I will see how many I can get done today and do remainder tomorrow
+4:52 - a small break before starting, AFM is left on (it has been running since E105)
+5:56 - loading SiC sample, conditions 20.3C, 44.6% RH
+5:58 - autolanded (Z=3.654mm), snapshot taken, starting measurements
+	sensitivity (nm/mV): 42/8.82, 20.5/4.05, 41.5/6.93, 42/7.73
+		in decimal form: 4.762, 5.062, 5.988, 5.433
+	adhesion (mV): .0035, .0043, .0041, .0030
+	not saved!
+6:06 - switching samples
+6:09 - microsphere confirmed, loading sample B3.4 S37-Q, conditions 20.4C, 44.6% RH
+6:14 - autolanded (Z=2.376mm), snapshot taken, starting measurements after moving away from dust
+	.0006 .0005 .0005 .0003 - P1 noise floor
+	.0005 .0006 .0006 .0005 - P2 noise floor
+	.0004 .0005 .0007 .0006 - P3 barely visible dip
+	.0010 .0006 .0007 .0006 - P4 barely visible
+	.0009 .0008 .0009 .0008 - P5 somewhat visible
+	.0007 .0009 .0008 .0007 - P6 same as above
+6:32 - switching samples
+6:34 - microsphere confirmed, but it looks 'dirty' or 'rough' compared to spherical appearance earlier. Hopefully the TiO2 coating did not disintegrate from the testing.
+6:36 - loading sample B4.1 S2-C, conditions 20.4C, 44.6% RH
+6:38 - autolanded (Z=2.513mm), snapshot taken, starting measurements
+	.0163 .0169 .0183 .0177 - P7 very visible but no flat section so some guesswork is present
+	.0185 .0181 .0189 .0188 - P8 nice!
+	.0201 .0207 .0206 .0204 - P9
+	.0168 .0163 .0163 .0163 - P10
+	.0238 .0227 .0243 .0245 - P11
+	.0191 .0194 .0193 .0198 - P12
+6:54 - switching samples
+6:57 - microsphere confirmed (it is still rough, looks like small spherical bubbles on its surface), loading sample B4.1 S1-U, conditions 20.5C, 44.9% RH
+7:00 - autolanded (Z=2.834mm), snapshot taken, starting measurements
+	.0105 .0090 .0088 .0097 - P13
+	.0103 .0107 .0099 .0117 - P14
+	.0097 .0100 .0106 .0107 - P15 some of the 'new noise' around plot 10, present only for one plot
+	.0124 .0110 .0104 .0129 - P16
+	.0098 .0107 .0099 .0109 - P17 nice
+	.0096 .0095 .0094 .0087 - P18 nice
+7:15 - switching samples
+7:19 - microsphere confirmed, loading sample B4.1 S2-U, conditions 20.5C, 45.0% RH
+7:22 - autolanded (Z=2.523mm), snapshot taken, starting measurements
+	.0147 .0174 .0146 .0157 - P19
+	.0116 .0124 .0134 .0134 - P20 low drift
+	.0108 .0102 .0100 .0095 - P21
+	.0129 .0127 .0128 .0133 - P22 strange 'double dip' on all plots here
+	.0147 .0152 .0116 .0136 - P23 ok
+	.0159 .0168 .0161 .0160 - P24 ok low drift
+	note for this probe end at tip position - 500nm
+7:36 - switching samples
+8:05 - microsphere confirmed, conditions 20.4C, 45.4% RH, shutting down AFM, all samples put in dessicator, will resume experiment tomorrow
+
+4/26/2017
+5:35 PM - warming up AFM
+5:56 - placed samples under DI fan, got 'new' DI water from glass flask
+6:04 - will continue on samples from yesterday: 37-C, 37-U, 37-F, 1-C in this order
+6:05 - loading sample B3.4 S37-C, conditions 19.4C, 53.2% RH
+6:08 - autolanded (Z=2.309mm), snapshot taken, starting measurements (Avoding the visible cracks)
+	.0012 .0014 .0013 .0011 - P25 drifting downwards
+	.0011 .0008 .0005 .0008 - P26 noise + lf noise, this is mostly guesswork
+	.0011 .0008 .0009 .0009 - P27 lf noise but visible dip
+	.0008 .0008 .0007 .0010 - P28 lf noise, less visible dip
+	.0008 .0009 .0008 .0007 - P29 lf noise, visible dip
+	.0005 .0005 .0009 .0008 - P30 lf noise, barely visible dip
+6:25 - switching samples, took another snapshot of coating peeling off
+6:29 - microsphere confirmed though it seems more rough, there are other dirt particles on the tip but the microsphere still seems to be farthest protruding. loading sample B3.4 S37-U, conditions 19.6C, 52.9% RH
+6:32 - autolanded (Z=2.320mm), snapshot taken, starting measurements
+	.0240 .0236 .0236 .0247 - P31 ok, drifty downwards
+	.0243 .0246 .0242 .0238 - P32 ok
+	.0224 .0230 .0244 .0235 - P33 almost no drift
+	.0228 .0229 .0222 .0225 - P34 ok, drifty upwards? maybe both ways
+	.0235 .0255 .0257 .0265 - P35 drifting upwards
+	.0259 .0257 .0258 .0256 - P36 quite nice
+6:52 - switching samples
+6:54 - microsphere confirmed (same condition as above)
+6:56 - due to poor condition of B3.4 S37-F (coating peeling off), to reduce possibility of contaminating the microsphere I will load the B4.1 S1-C first even though that is not according to above order, conditions 19.5C, 53.4% RH
+7:02 - autolanded (Z=2.789mm), snapshot taken, starting measurements
+	.0013 .0007 .0007 .0007 - P37 noise estimates, drifty (upwards)
+	.0019 .0020 .0020 .0022 - P38 ok
+	.0008 .0007 .0007 .0008 - P39 ok
+	.0015 .0011 .0012 .0012 - P40 ok
+	.0009 .0009 .0007 .0004 - P41 ok
+	.0008 .0008 .0010 .0010 - P42 ok
+7:18 - switching samples
+7:26 - a piece of dust was found next to the microsphere, but I was able to wash it off with a water droplet so likely it did not affect previous measurements - just in case, I will do some confirmation measurements with B4.1 S1-C
+	.0018 .0016 .0016 .0018 - P43 ok
+	.0005 .0004 .0008 .0006 - P44 drifting everywhere and noisy
+7:32 - switching samples
+7:35 - microsphere confirmed, loading sample B3.4 S37-F, conditions 19.7C, 53.0% RH
+7:38 - autolanded (Z=2.330mm), snapshot taken, starting measurements (avoiding cracked areas)
+	.0007 .0007 .0004 .0007 - P45 noise estimates
+	.0006 .0008 .0009 .0006 - P46 noise estimates +lf noise
+	.0007 .0005 .0005 .0005 - P47 noise estimates
+	.0006 .0005 .0005 .0005 - P48 noise floor!
+	.0007 .0007 .0006 .0004 - P49 noise floor
+	.0007 .0006 .0006 .0004 - P50 noise floor
+7:54 - switching samples, as expected Fluorite coating got stuck to a droplet on the AFM - will try to wash off with water
+7:58 - microsphere confirmed, loading SiC sample, conditions 19.6C, 53.0% RH
+8:00 - autolanded (Z=3.620mm), snapshot taken, starting measurements
+	sensitivity (nm/mV): 58.05/10.39, 44.94/9.78, 44.94/9.37, 24.36/5.07
+		in decimal form: 5.587, 4.595, 4.796, 4.805
+	adhesion (mV): .0201, .0213, .0191, .0177
+	saved as P51 - some strange low-adhesion (0.0100 mV) plots in the middle of the set?
+8:07 - switching samples
+8:09 - microsphere confirmed, taking a break, SiC sample left in AFM

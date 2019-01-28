@@ -1,0 +1,143 @@
+7/7/2017
+Ag probe with reduced matrix in water AFM
+
+4:06 PM - recalling earlier random probe order from E115, today I will continue on with Ag probe. Only one of these remains - Novascan 22 - so I will try to be careful.
+	SiO2
+	Ni
+	Ag
+	TiO2
+	SS304
+	ZnO
+4:30 - AFM turned on to warm up
+7:50 - AFM turned off after I was too tired to continue
+
+3:17 AM - AFM turned on to warm up
+4:01 - will load Ag coated probe Novascan 22
+4:04 - placing probe and samples under DI fan
+4:06 - removing probe Novascan 12 (R15 C11 confirmed)
+4:10 - loading probe Novascan 22 (R15 C22 confirmed)
+4:13 - probe loaded successfully
+4:14 - DI fan turned off, samples covered. loading sample B13 S1, conditions 21.2/62.8
+4:15 - randomized samples list:
+	SiC calibration sample (B13 S1, 5.318 mm)
+    Uncoated Si (B3.4 S38-U, 1.119 mm)
+    Cryolite solid (B2.1.1 S4, 2.119 mm)
+    Calcite solid (B1.1.1 S7, 3.546 mm)
+    Quartz solid (B2.1.1 S1, 2.294 mm)
+    Quartz coated (B3.4 S38-Q, 1.182 mm)
+    Cryolite coated (B3.4 S38-C,1.120 mm)
+    Fluorite coated (B3.4 S38-F, 1.207 mm)
+    ITO Coated (B4.1 S2-C, 1.601 mm)
+    FTO Coated (B4.1 S1-C, 2.584 mm)
+	SiC calibration sample (B13 S1, 5.318 mm)
+4:20 - landed Z=5.268mm, snapshot taken, FD parameters: range 500 nm, speed 1000 nm/sec, number of samples 2000, wait time 1000 ms
+	0 - drifting fast upwards
+	1 - better, probe offset at ~250 nm
+4:23 - switching samples. microsphere confirmed, it is a bit rough and some droplets on cantilever.
+4:27 - loaded sample B3.4 S38-U, conditions 21.3/62.6
+4:29 - landed Z=1.150 mm, snapshot taken
+	2 - approach curve also shows dip on order of retract dip?
+	3 - same
+	4 - same, drifting up
+	5 - same, some lf
+	6 - some divergent noise and electronic noise in one plot
+	7
+	8
+	9
+4:42 - switching samples. microsphere confirmed
+4:46 - loading sample B2.1.1 S4, conditions 21.3/62.8
+4:47 - landed Z=2.083mm, snapshot taken
+	10 - drifting up fast, some divergent noise
+	11 - better, still some divergent noise
+	12 - ok, lf noise
+	13 - big lf noise
+	14
+	15
+	16 getting more stable
+	17
+4:58 - switching samples. microsphere confirmed
+5:02 - loading sample B1.1.1 S7, conditions 21.3/62.7
+5:03 - landed Z=3.453mm, snapshot taken
+	18 - drifting downwards (away!)
+	19 - very weird noise lf+dual dip, drifting downwards
+	20 - drifting but no weird noise
+	21 - same
+	22 - more stable
+	23 - smooth dip
+	24
+	25
+5:17 - switching samples. microsphere confirmed
+5:21 - loading sample B2.1.1 S1, sample was wiped with isopropyl alcohol then rinsed with water droplet due to it being dropped during loading. conditions 21.4/62.3
+5:22 - landed Z=2.371 mm, snapshot taken
+	26 drifting up fast
+	27 ok
+	28 ok, some lf
+	29
+	30 some divergent noise removed
+	31 ok
+	32
+	33
+5:34 - switching samples
+5:37 - microsphere confirmed, AFM left on, taking a break
+6:19 - loading sample B3.4 S38-Q, conditions 21.4/62.4
+6:21 - landed Z=1.151mm, snapshot taken
+	34 some divergent noise, drifting fast
+	35 better
+	36
+	37
+	38
+	39
+	40
+	41
+6:34 - switching samples. microsphere confirmed
+6:37 - loading sample B3.4 S38-C, conditions 21.4/62.3
+6:38 - landed Z=1.171mm, snapshot taken
+	42 drifting fast, hard to control, lf noise
+	43 better
+	44
+	45
+	46 some divergence
+	47
+	48
+	49
+6:48 - switching samples. microsphere confirmed
+6:51 - loading sample B3.4 S38-F, conditions 21.4/62.4
+6:52 - landed Z=1.162mm, snapshot taken, took some searching to find film area
+	50 ok
+	51
+	52 consistent
+	53 UNCOATED AREA for reference
+	54
+	55
+	56
+	57
+	58
+7:06 - switching samples. microsphere confirmed
+7:08 - loading sample B4.1 S2-C, conditions 21.5/62.4
+7:09 - landed Z=1.631mm, snapshot taken. This looks to be a good set for verification of the work of adhesion approach (consistency within and between points - better or worse than using adhesion force?)
+	59
+	60
+	61
+	62 consistent
+	63
+	64
+	65
+	66
+7:19 - switching samples. microsphere confirmed
+7:22 - loading sample B4.1 S1-C, conditions 21.5/62.4
+7:23 - landed Z=2.594mm, snapshot taken
+	67 fast drifting up
+	68 sticky?
+	69
+	70
+	71
+	72
+	73
+	74 a bit drifty
+7:32 - switching samples. microsphere confirmed
+7:35 - loading sample B13 S1, conditions 21.6/62.4
+7:36 - landed Z=5.275mm, snapshot taken. This set would also be a good reference for work of adhesion approach
+	75 some divergence
+	76 ok
+7:38 - switching samples
+7:41 - microsphere confirmed, some tiny droplets remain on cantilever from earlier. AFM turned off, samples left partially covered to air dry.
